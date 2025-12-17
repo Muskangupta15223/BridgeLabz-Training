@@ -6,6 +6,7 @@ class Power{
     int base = sc.nextInt();
     int power = sc.nextInt(); 
     double answer = Math.pow(base , power); 
-   System.out.println(answer);
+    System.out.println(answer);
   }
+
 }
