@@ -1,26 +1,25 @@
-**BridgeLabz-Training
+## core-java-practice
 
-
-| ├── core-java-practice
-
-  - ├── gcr-codebase
-
-            - programming-elements
+   -  gcr-codebase
+      
+            - prerequisites
+                 - 10 java program
+      
+           - programming-elements
                      * Level 1 
-                           : 16 java program
+                           - 16 java program
                      * Level 2
-                           : 8 java program
+                           - 8 java program
 
-           - control-flow
+            - control-flow
 
             - arrays
 
-           - prerequisites
-                 * 10 java program
+      
 
- - ├── scenario-based
+ - scenario-based
 
   
- - ├── leet-code-codebase
+ - leet-code-codebase
 
 
