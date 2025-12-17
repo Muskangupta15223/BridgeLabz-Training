@@ -1,10 +1,5 @@
 class Welcome{
-
-public static void main(String args[]){
-
-System.out.println("Welcome to Bridge labz");
-
-
-}
-
+   public static void main(String args[]){
+     System.out.println("Welcome to Bridge labz");
+  }
 }
