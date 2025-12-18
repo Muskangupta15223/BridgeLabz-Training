@@ -7,11 +7,13 @@ public class BasicCalculator{
 		float num1 = sc.nextInt();
 		float num2 = sc.nextInt();
 		
+		//calculation of operations
 		float addition = num1 + num2 ;
 		float subtraction = num1 - num2 ;
 		float multiplication = num1 * num2;
 		float division = num1/ num2;
 		
+		//display arithematic operation output
 		System.out.println("The addition, subtraction, multiplication, and division value of 2 numbers " + num1 + " and " + num2 + " is "+ addition + " , " + subtraction + ", " + multiplication + ", and " + division);
 
 	}
