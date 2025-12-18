@@ -1,10 +1,10 @@
 
 import java.util.*;
-// creating class CalculateTotalPrice for finding total price of items
+// creating class CalculateTotalPrice for finding the total price of items
 public class CalculateTotalPrice{
 	public static void main(String args[]){
 
-		// Taking unitPrice and num2 as user input
+		// Taking unitPrice and quantity as user input
 		Scanner sc = new Scanner(System.in);         
 		int unitPrice = sc.nextInt();
 		int quantity = sc.nextInt();
