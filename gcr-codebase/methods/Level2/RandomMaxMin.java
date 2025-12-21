@@ -10,7 +10,7 @@ public class RandomMaxMin {
         return arr;
     }
 
-    // Method to find average, minimum and maximum
+    // create a method to find average, minimum and maximum
     public double[] findAverageMinMax(int[] numbers) {
         int min = numbers[0];
         int max = numbers[0];
@@ -31,7 +31,7 @@ public class RandomMaxMin {
         double[] result = r.findAverageMinMax(random);
 	
 	// display the output
-        System.out.println("Random Numbers:" + Arrays.toString(randomNumbers));
+        System.out.println("Random Numbers:" + Arrays.toString(random));
         System.out.println("Average Value: " + result[0]);
         System.out.println("Minimum Value: " + result[1]);
         System.out.println("Maximum Value: " + result[2]);
