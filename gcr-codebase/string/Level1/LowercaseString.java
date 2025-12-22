@@ -11,13 +11,16 @@ public class LowercaseString{
 		return new String(ch);
 	}
 
+	public static boolean comparison(String s, String t){
+		t = t.toLowerCase();
+		return s.equals(t);
+	}
+		
 	public static void main(String args[]){
 		// take string as input
 		Scanner sc = new Scanner(System.in);
 		String str = sc.nextLine();
-		
-		//display output
-		System.out.println("convert string to LowerCase case without using built-in  : " + convertToLowercase(str));	
-		System.out.println("convert string to Lowercase using built-in : " + str.toLowerCase());	
-	}
+		String s= convertToLowercase(str);		
+		System.out.println(comparison(s,str));
+		}
 }
