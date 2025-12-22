@@ -1,4 +1,5 @@
 import java.util.*;
+//create a class SpringSeasonOrNot to find season is spring or not 
 public class  SpringSeasonOrNot{
 	public static void main(String args[]){
 		// taking date and month as input from user using command line
