@@ -10,14 +10,15 @@ public class UppercaseString{
 		}
 		return new String(ch);
 	}
-
+	public static boolean comparison(String s, String t){
+		t = t.toUpperCase();
+		return s.equals(t);
+	}
 	public static void main(String args[]){
 		// take string as input
 		Scanner sc = new Scanner(System.in);
 		String str = sc.nextLine();
-
-		//display output
-		System.out.println("convert string to upper case without using built-in " + convertToUppercase(str));	
-		System.out.println("convert string to upper case using built-in " + str.toUpperCase());	
+		String s = convertToUppercase(str);	
+		System.out.println(comparison(s,str));	
 	}
 }
