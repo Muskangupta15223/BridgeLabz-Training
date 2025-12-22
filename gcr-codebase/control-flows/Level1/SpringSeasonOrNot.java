@@ -11,7 +11,6 @@ public class  SpringSeasonOrNot{
 			System.out.println(" Spring Season ");
 		}else{
 			System.out.println("Not a Spring Season");
-
 		}
 	}
 }
