@@ -1,11 +1,11 @@
 import java.util.*;
 public class SmallestAndLargest{
 	
-	//Creating a method findSmallestAndLargest for finding smallest and largest among three numbers
+	//Creating a method findSmallestAndLargest for finding the smallest and largest among three numbers
 	public static int[] findSmallestAndLargest(int a, int b, int c){
 		int[] arr = new int[2];
-		arr[0] = (a < b )? ((a < c)? a:c) :  ((b < c )? b:c );
-		arr[1] = (a > b )? ((a > c)? a:c) :  ((b > c )? b:c );
+		arr[0] = (a < b )? ((a < c)? a:c) : ((b < c )? b:c );
+		arr[1] = (a > b )? ((a > c)? a:c) : ((b > c )? b:c );
 		return arr;
 	}
 
