@@ -2,7 +2,6 @@ import java.util.Scanner;
 // Create class BonusToEmployee to find bonus amount of employee
 public class BonusToEmployee {
     public static void main(String[] args) {
-		/* Take numOfEmployee as input and declare two array to store salary and yearOfService as well as two arrays two store newSalary and Bonus of Employee and define three variables for totalBonus , totalOldSalary and totalNewSalary */
 		Scanner sc = new Scanner(System.in);
 		double totalBonus = 0;
 		double totalOldSalary= 0;
