@@ -1,25 +1,26 @@
-## core-java-practice
+## BridgeLabz-Training
 
-   -  gcr-codebase
-      
-            - prerequisites
-                 - 10 java program
-      
-           - programming-elements
-                     * Level 1 
-                           - 16 java program
-                     * Level 2
-                           - 8 java program
+# Week1: Git & GitHub & Java programming fundamentals
 
-            - control-flow
+📆 Day 1 : Git & GitHub Setup 
+(Date : 16 Dec 2025)
 
-            - arrays
+- Installed and configured git.
+- Setup Github repository
 
-      
-
- - scenario-based
-
-  
- - leet-code-codebase
-
-
+      BridgeLabz-Training/
+      │── core-java-practice/
+      |   └── gcr-code-base/
+      |   |    └── arrays/
+      |   |    └── control-flow/
+      |   |    └── extra/
+      |   |    └── methods/
+      |   |    └── strings/
+      |   |    └── prerequisites/
+      |   |    └── programming-elements/
+      |   └── leet-code-codebase/
+      |   └── scenario-based/
+      └── README.md
+       
+- Learned basic Git commands (init, add,commit,push).
+- Successfully pushed files to the the remote repository.
