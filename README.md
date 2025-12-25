@@ -22,6 +22,7 @@
        
 - Learned basic Git commands (init, add,commit,push).
 - Successfully pushed files to the the remote repository.
+##
 
 ### 📆 Day 2 : Git Pracice & Basic Java Program  
 (Date : 17 Dec 2025)
@@ -30,5 +31,26 @@
 - Solved very basics Java program to understand syntax and structure.
 - Practiced adding, commiting, and pushing Java files to Github.
   
-🔗[Basic Java Programs]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/prerequisites))
+🔗 [Basic Java Programs]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/prerequisites))
+
+##
+
+### 📆 Day 3 : Programming Elements in Java 
+(Date : 18 Dec 2025)
+
+-Studied Java programming elements:
+      - Variabkes and data types
+      - Operators
+      - User input and output
+- Solved practce problems based on program
+- Commited and pushed solutions to the repository.
+
+🔗 [Programming-Elements]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
+
+
+
+
+
+
+
 
