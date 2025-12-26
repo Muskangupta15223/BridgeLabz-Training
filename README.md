@@ -38,10 +38,10 @@
 ### 📆 Day 3 : Programming Elements in Java 
 (Date : 18 Dec 2025)
 
--Studied Java programming elements:
-      - Variables and data types
-      - Operators
-      - User input and output
+- Studied Java programming elements:
+  - Variables and data types
+  - Operators
+  - User input and output
 - Solved practce problems based on program
 - Commited and pushed solutions to the repository.
 
@@ -52,10 +52,10 @@
 ### 📆 Day 4 : Control-Flows 
 (Date : 19 Dec 2025)
 
--Studied Control-flows in java:
-      - Conditionals = if ,if else-if, if-else 
-      - Switch = for multiple conditions
-      - Loops = for, while (repitions)
+- Studied Control-flows in java:
+  - Conditionals = if ,if else-if, if-else 
+  - Switch = for multiple conditions
+  - Loops = for, while (repitions)
 - Solved practce problems based on control-flows.
 - Commited and pushed solutions to the repository.
 
@@ -63,7 +63,17 @@
 
 ##
 
+### 📆 Day 5 : Arrays 
+(Date : 20 Dec 2025)
 
+- Studied Arrays in java:
+- learn about single and multi dimensional arrays operations.
+  - Creating, Traversing, Merging, Modifying for 1D arrays
+  - Addition, Multiplication, Subtraction for 2D arrays. 
+- Solved multiple practice problems based on 1D and 2D arrays.
+- Commited and pushed solutions to the repository.
+
+🔗 [Arrays]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays))
 
 
 
