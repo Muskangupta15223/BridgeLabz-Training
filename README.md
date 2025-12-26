@@ -142,8 +142,27 @@
         └── Level3/
 ```
 - Completed and pushed strings to GitHub.
+  
 🔗 [Strings](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
+## Day 2 – Extras (Built-In Methods & String Practice)
 
+**(Date: 23-Dec-2025)**
 
+- Practiced built-in Java methods and additional string operations.
+- Worked on date/time operations and recursive algorithms.
+
+```
+    gcr-codebase/
+    └── Extras/
+        ├── extra-built-In/
+        |   ├── Level-1/
+        |    └── Level-2/
+        └── extra-strings/
+```
+- Completed and pushed extras to GitHub.
+  
+🔗 [extra-built-in](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra/extra-built-in)
+
+🔗 [extra-strings](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra/extra-string)
 
