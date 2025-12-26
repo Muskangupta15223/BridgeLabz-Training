@@ -1,8 +1,8 @@
 import java.util.*;
 public class Frequency{
 	// create a method to find frequency of characters
-	public static String[] findFrequency(String text) {
-		char[] chars = text.toCharArray(); 
+	public static String[] findFrequency(String str) {
+		char[] chars = str.toCharArray(); 
 		int[] freq = new int[chars.length];  
 
 		for (int i = 0; i < chars.length; i++) {
