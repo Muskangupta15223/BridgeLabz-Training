@@ -36,7 +36,7 @@
     └── prerequisites/
   ```
   
-🔗 [Basic Java Programs]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/prerequisites))
+🔗 [Basic Java Programs](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/prerequisites)
 
 ##
 
@@ -58,7 +58,7 @@
    ```
 - Commited and pushed solutions to the repository.
 
-🔗 [Programming-Elements]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements))
+🔗 [Programming-Elements](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)
 
 ##
 
@@ -80,7 +80,7 @@
   ```
 - Commited and pushed solutions to the repository.
 
-🔗 [Control-flows]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows))
+🔗 [Control-flows](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows)
 
 ##
 
@@ -101,7 +101,7 @@
   ```
 - Commited and pushed solutions to the repository.
 
-🔗 [Arrays]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays))
+🔗 [Arrays](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)
 
 ##
 
@@ -122,7 +122,7 @@
   ```
 - Commited and pushed solutions of methods to the repository.
 
-🔗 [Methods]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods))
+🔗 [Methods](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods)
 
 ##
 
@@ -146,8 +146,7 @@
 🔗 [Strings](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/string)
 
 ## Day 2 – Extras (Built-In Methods & String Practice)
-
-**(Date: 23-Dec-2025)**
+(Date: 23-Dec-2025)
 
 - Practiced built-in Java methods and additional string operations.
 - Worked on date/time operations and recursive algorithms.
@@ -165,4 +164,23 @@
 🔗 [extra-built-in](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra/extra-built-in)
 
 🔗 [extra-strings](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra/extra-string)
+
+## Day 3 – LeetCode & Scenario-Based Problems
+(Date: 24-Dec-2025)
+
+- Solved LeetCode array problems and real-world scenario-based challenges.
+- Applied programming concepts to practical use cases.
+
+```
+    leet-code-codebase/
+    └── Arrays/
+        ├── TwoSum.java
+        └──PlusOne.java
+        
+
+    scenario-based-codebase/
+    ├── BMICalculator.java
+    └── CoffeeCounterCalculator.java
+```
+- Completed and pushed LeetCode and scenario-based solutions to GitHub.
 
