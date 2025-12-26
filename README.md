@@ -20,7 +20,7 @@
       |   └── scenario-based/
       └── README.md
        
-- Learned basic Git commands (init, add,commit,push).
+- Learned basic Git commands (init, add, commit, push, pull).
 - Successfully pushed files to the the remote repository.
 ##
 
@@ -42,7 +42,7 @@
   - Variables and data types
   - Operators
   - User input and output
-- Solved practce problems based on program
+- Solved practice problems based on program
 - Commited and pushed solutions to the repository.
 
 🔗 [Programming-Elements]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements))
@@ -56,7 +56,7 @@
   - Conditionals = if ,if else-if, if-else 
   - Switch = for multiple conditions
   - Loops = for, while (repitions)
-- Solved practce problems based on control-flows.
+- Solved practice problems based on control-flows.
 - Commited and pushed solutions to the repository.
 
 🔗 [Control-flows]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/control-flows))
@@ -74,6 +74,20 @@
 - Commited and pushed solutions to the repository.
 
 🔗 [Arrays]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays))
+
+##
+
+### 📆 Day 6 : Methods 
+(Date : 22 Dec 2025)
+
+- Studied about methods in java:
+  - make methods to solve conditionals, loops and arrays
+  - learn how to write clean code using methods
+- Solved practice problems based on Methods.
+- Commited and pushed solutions of methods to the repository.
+
+🔗 [Methods]([https://www.google.com](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/methods))
+
 
 
 
