@@ -175,12 +175,16 @@
     leet-code-codebase/
     └── Arrays/
         ├── TwoSum.java
+        ├── MoveZeroes.java   
         └──PlusOne.java
         
 
     scenario-based-codebase/
     ├── BMICalculator.java
-    └── CoffeeCounterCalculator.java
+    ├── EligiblleForVote.java
+    ├── FareDeduction.java
+    ├── ResultGenerator.java
+    └── CoffeeCounter.java
 ```
 - Completed and pushed LeetCode and scenario-based solutions to GitHub.
 
