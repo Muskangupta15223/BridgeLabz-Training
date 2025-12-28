@@ -34,3 +34,62 @@ java-oops-practice/
                         └── StudentsGrades.java
 ```
 🔗[ClassAndObjects](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+
+---
+
+### Day 6 – Constructors, Instance and Class Variables
+(Date: 27-Dec-2025)
+
+- Learned about Constructors in Java.
+- Implemented different types of constructors:
+  - Default Constructor
+  - Parameterized Constructor
+  - Constructor Chaining and copy constructor
+- Applied constructor concepts in practical scenarios.
+- Learn about access modifiers and istance and class variables.
+- Explore about getter and setter for private variables 
+```
+java-oops-practice/
+└── gcr-codebase/
+    └── JavaOopsConcepts/
+        └── src/
+            └── com/
+                └── constructor/
+                    └── levelone/               
+                     ├── Book.java
+                     ├── Circle.java
+                     ├── HotelBooking.java
+                     ├── Person.java
+                     └──BankAccount/
+                         ├── BankAccount.java
+                         |── MainBank.java
+                         |── SavingsAccount.java
+                     └──carRebtal/
+                         ├── CarRental.java
+                         |── MainCarRental.java
+                     └──employeeRecords/
+                         ├── Employee.java
+                         |── MainEmployee.java
+                         |── Manager.java
+                     └──libraryBook/
+                         ├── Book.java
+                         |── EBook.java
+                         ├── MainBook.java
+                         |── LibraryBook.java
+                         |── MainLibraryBook.java
+                     └──onlineCourse/
+                         ├── Course.java
+                         |── MainCourse.java
+                     └──ProductDetails/
+                         ├── Product.java
+                         |── MainProduct.java
+                     └──UniversityManagement/
+                         ├── Student.java
+                         |── PostGraduateStudent.java
+                         |── MainStudent.java
+                    └──VehicleRegistration/
+                         ├── Vehicle.java
+                         |── MainVehicle.java
+
+```
+🔗 [Constructors](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/levelone)
