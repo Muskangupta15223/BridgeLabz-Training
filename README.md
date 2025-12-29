@@ -36,3 +36,31 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ---
 
+## Scenario-based 
+- Explore real time problem and learn the approach.
+- Think about different solution and problem.
+
+# Learning Days 
+
+## Week1
+```
+ | 15-dec  |   Learn Git and Github Setup |   Create Repository ,git commands |
+ | 16-dec  |   Basics Java Fundamentals   |   10 programs prerequisites       |
+ | 17-dec  |     Programming elements     |   31 program(level1 & Level2)     |
+ | 18-dec  |       Control Flows          |   43 programss (level1,2& 3)      |
+ | 19-dec  |         Arrays               |   18 program(level1 & Level2)     |
+ | 20-dec  |         Methods              |   35 program(level1, 2 & 3)       |
+``` 
+## Week2
+```
+| 22-dec  |         Strings              |   30 program(level, 2 & 3)        |
+| 23-dec  |  Built-In & String Handling  |   12 programs                     |
+| 24-dec  |   Leetcode & scenario-based  |   3 leetcode + 2 scenario based   |
+| 26-dec  |Scenario-based & OOPs Concept |   5 scenario-based &10 programs   |
+| 27-dec  |       Constructor            |   13 programs & theory            |
+```
+
+# Week-3
+```
+| 29-dec  |   Scenario & Static Keyword  |   5 scenario & 7 programs         |
+  ```
