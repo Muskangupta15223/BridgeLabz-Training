@@ -93,3 +93,30 @@ java-oops-practice/
 
 ```
 🔗 [Constructors](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/levelone)
+
+## Week 3 : Features Of Object-Oriented Programming
+
+### Day 1 - Static & This Keyword
+(Date - 29-Dec-2025)
+
+```
+ java-oops-practice/
+└── gcr-codebase/
+    └── JavaOopsConcepts/
+        └── src/
+            └── com/
+                └── inbuiltfunction/
+                    ├── levelone/
+                    │   ├── BankAccount.java
+                    │   ├── Company.java
+                    │   ├── Book.java
+                    │   ├── Patient.java
+                    │   ├── Student.java
+                    │   ├── Vehicle.java
+                    │   └── Product.java
+
+
+```
+
+
+
