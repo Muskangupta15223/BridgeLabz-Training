@@ -6,13 +6,16 @@ public class LibraryReminder {
 
     public static int fineCalculator(LocalDate dueDate, LocalDate returnDate) {
         long daysLate = ChronoUnit.DAYS.between(dueDate, returnDate);
-        int finePay = (int) daysLate * 10;
+        int finePay = (int) daysLate * 5;
         return finePay;
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Welcome to Library Reminder System");
+        int numOfBooks = 5;
+        while (numOfBooks-- > 0) {
+        }
         System.out.println("Enter the date when the book was taken (YYYY-MM-DD): ");
         LocalDate takenDate = LocalDate.parse(sc.next());
         LocalDate dueDate = takenDate.plusDays(14);
