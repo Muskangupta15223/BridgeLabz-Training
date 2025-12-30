@@ -184,7 +184,15 @@
     ├── EligiblleForVote.java
     ├── FareDeduction.java
     ├── ResultGenerator.java
+    ├── ResultGenerator.java
+    ├── Parking.java
+    ├── NumberGuessing.java
+    ├── Attendance.java
     └── CoffeeCounter.java
 ```
 - Completed and pushed LeetCode and scenario-based solutions to GitHub.
+  
+  [ Scenario- based ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase)
+  
+  [ Leetcode- based ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice/leetcode-codebase/Array)
 
