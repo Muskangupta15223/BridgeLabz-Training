@@ -14,7 +14,7 @@ public class Quiz {
         char[] userAnswers = new char[5];
         int score = 0;
 
-        Scanner sc = new java.util.Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         for (int i = 0; i < questions.length; i++) {
             System.out.println(questions[i]);
