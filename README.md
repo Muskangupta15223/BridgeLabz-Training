@@ -184,10 +184,19 @@
     ├── EligiblleForVote.java
     ├── FareDeduction.java
     ├── ResultGenerator.java
-    ├── ResultGenerator.java
+    ├── FitnessTracker.java
     ├── Parking.java
     ├── NumberGuessing.java
     ├── Attendance.java
+    ├── LuckyDraw.java
+    ├── Quiz.java
+    ├── DigitalWatch.java
+    ├── PhoneRecharge.java
+    ├── Discount.java
+    ├──LibraryReminder.java
+    ├──MovieTicketBooking.java
+    ├── TemperatureLogger.java
+    ├── Reservation.java
     └── CoffeeCounter.java
 ```
 - Completed and pushed LeetCode and scenario-based solutions to GitHub.
