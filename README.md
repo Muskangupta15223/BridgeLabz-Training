@@ -63,4 +63,5 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 # Week-3
 ```
 | 29-dec  |   Scenario & Static Keyword  |   5 scenario & 7 programs         |
+| 30-dec  |  Scenario & object modelling |   5 scenario & 10 programs        |
   ```
