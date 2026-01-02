@@ -66,4 +66,6 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | 30-dec  |  Scenario & object modelling |   5 scenario & 10 programs        |
 | 31-dec  |    Scenario & inheritance    |   5 scenario & 11 programs        |
 | 01-Jan  |Oops Scenario & Encapsulation |   5 scenario & 08 programs        |
+| 02-Jan  |  Oops Scenario & LinkedList  |   5 scenario & 09 programs        |
+
   ```
