@@ -16,7 +16,11 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### 🔹 [java-oops-practice](https://github.com/yourusername/BridgeLabz-Training/tree/java-oops-practice)
 **Week 2**: Object-Oriented Programming
 
+
+### 🔹 [java-dsa-practice](https://github.com/yourusername/BridgeLabz-Training/tree/java-dsa-practice)
+**Week 3**: Data-Structure And Algorithm
 ---
+
 
 ##  Key Concepts Covered
 
