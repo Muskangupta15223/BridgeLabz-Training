@@ -175,7 +175,12 @@
     leet-code-codebase/
     └── Arrays/
         ├── TwoSum.java
-        ├── MoveZeroes.java   
+        ├── MoveZeroes.java
+        ├── SpiralMatrix.java
+        ├── RemoveElements.java
+        ├── ContainsDuplicate.java
+        ├── CountPrimes.java
+        ├── RemoveDuplicate.java 
         └──PlusOne.java
         
 
