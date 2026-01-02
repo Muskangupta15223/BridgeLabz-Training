@@ -115,8 +115,11 @@ java-oops-practice/
                     │   ├── Vehicle.java
                     │   └── Product.java
 
-
 ```
-
+- Studied Java keywords:
+- this, static, and final
+- Studied access modifiers in Java.
+- Learned instance vs class (static) variables and methods.
+- Committed and pushed all work.
 
 
