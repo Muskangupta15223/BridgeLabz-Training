@@ -2,9 +2,9 @@ package com.universityCourseEnrollmentSystem;
 
 public class Main {
 	 public static void main(String[] args) {
-	        Student ug = new UnderGraduate(1, "Muskan", 3.2, "AI");
-	        Student pg = new PostGraduate(2, "Shna", 3.8, "ML");
-	        Course course = new Course(101, "Object Oriented Programming");
+	        Student ug = new UnderGraduate(1, " Muskan ", 3.2, " AI ");
+	        Student pg = new PostGraduate(2, " Shna ", 3.8, " ML ");
+	        Course course = new Course(101, " Object Oriented Programming ");
 
 	        Enrollment ugEnrollment = new Enrollment(ug, course, 78);
 	        Enrollment pgEnrollment = new Enrollment(pg, course, 62);
