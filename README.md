@@ -99,6 +99,10 @@ java-oops-practice/
 ### Day 1 - Static & This Keyword
 (Date - 29-Dec-2025)
 
+- Studied Java keywords:
+- this, static, and final
+- Studied access modifiers in Java.
+  
 ```
  java-oops-practice/
 └── gcr-codebase/
@@ -116,11 +120,9 @@ java-oops-practice/
                     │   └── Product.java
 
 ```
-- Studied Java keywords:
-- this, static, and final
-- Studied access modifiers in Java.
 - Learned instance vs class (static) variables and methods.
-- Committed and pushed all work.
+- Committed and pushed all work. 
+-  🔗 Code Link: 👉 [Static and This Keyword ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction/levelOne)
 
 ### Day 2 - Object Modelling and class diagram
 (Date - 30-Dec-2025)
@@ -136,20 +138,20 @@ java-oops-practice/
             └── com/
             └── objectModeling
               └── levelOne
-                ├── bankAccountHolders
-                ├── hospitalManagement
-                ├── UniversityManagement
-                ├── companyAndDepartments
-                ├── university
-                ├── Ecommerceplattform
-                ├── libraryBooks
-                ├── schoolAndStudents
+                ├── bankAccountHolders/
+                ├── hospitalManagement/
+                ├── UniversityManagement/
+                ├── companyAndDepartments/
+                ├── university/
+                ├── Ecommerceplattform/
+                ├── libraryBooks/
+                ├── schoolAndStudents/
 
 ```
 - Learned object relationships:
   - Association, Aggregation, Composition
-Committed and pushed all work.
-🔗 Code Link: 👉 [Object Modelling](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling/levelOne)
+- Committed and pushed all work.
+- 🔗 Code Link: 👉 [Object Modelling](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling/levelOne)
 
 
 ### Day 3 - Java Inheritance and Types
@@ -170,25 +172,59 @@ Committed and pushed all work.
         └── src/
             └── com/
                  ├──inheritance
-                      ├───AssistedProblems
-                      │   ├───AnimaHierarchy
-                      │   ├───EmployeeManagementSystem
-                      │   └───VehicleandTransportSystem
-                      ├───HierarchicalInheritance
-                      │   ├───BankAccountTypes
-                      │   └───SchoolSystemwithDifferentRoles
-                      ├───HybridInheritance
-                      │   ├───RestaurantManagementSystem
-                      │   └───VehicleManagementSystem
-                      ├───MultilevelInheritance
-                      │   ├───EducationalCourseHierarchy
-                      │   └───OnlineRetailOrderManagement
-                      └───SingleInheritance
-                          ├───LibraryManagementwithBooksandAuthors
-                           └───SmartHomeDevices
+                      ├───AssistedProblems/
+                      │   ├───AnimaHierarchy/
+                      │   ├───EmployeeManagementSystem/
+                      │   └───VehicleandTransportSystem/
+                      ├───HierarchicalInheritance/
+                      │   ├───BankAccountTypes/
+                      │   └───SchoolSystemwithDifferentRoles/
+                      ├───HybridInheritance/
+                      │   ├───RestaurantManagementSystem/
+                      │   └───VehicleManagementSystem/
+                      ├───MultilevelInheritance/
+                      │   ├───EducationalCourseHierarchy/
+                      │   └───OnlineRetailOrderManagement/
+                      └───SingleInheritance/
+                          ├───LibraryManagementwithBooksandAuthors/
+                           └───SmartHomeDevices/
 
 ```
 - Committed and pushed all work on repository .
-🔗 Code Link:[Inheritance and types]( https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+- 🔗 Code Link:[Inheritance and types]( https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+
+### Day 14 – Java Encapsulation & Polymorphism
+(Date: 01-Dec-2026)
+
+- Studied Encapsulation & Polymorphism:
+- Types of Polymorphism
+  - Compile-Time (Static) Polymorphism
+  - Runtime (Dynamic) Polymorphism
+- Polymorphism with interface
+- Polymorphism with abstract classes
+- Casting and instanceof with Polymorphism
+
+```
+ java-oops-practice/
+└── gcr-codebase/
+    └── JavaOopsConcepts/
+        └── src/
+            └── com/
+                └──encapsulation
+                    ├── bankingSystem/
+                    ├── VehicleRentalSystem/
+                    ├── hospitalpatientmanagement/
+                    ├── employeemanagementsystem/
+                    ├── onlinefooddelivery/
+                    ├── ecommerceplattform/
+                    ├── librarymanagementsystem/
+                    ├── ridehailingapplication/
+
+
+
+```
+- Learned more about best practices.
+- Committed and pushed all work.
+- 🔗 Code Link:[ Encapsulation And polmorphism ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
 
 
