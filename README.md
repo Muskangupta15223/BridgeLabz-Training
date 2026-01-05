@@ -78,6 +78,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | 01-Jan  |Oops Scenario & Encapsulation |   5 scenario & 08 programs        |
 | 02-Jan  |  Oops Scenario & LinkedList  |   5 scenario & 05 programs        |
 | 03-Jan  | Oops Scenario Based Question |   2 scenario & some questions     |
+| 04-Jan  |       StackAndQueues         |  5 stack and queues questions     |
   ```
 ------------
+
+| 05-Jan  |   HashMap & Sceario Based   |      2 scenario 5 questions       |
 
