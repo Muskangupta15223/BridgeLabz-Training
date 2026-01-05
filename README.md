@@ -125,11 +125,15 @@ java-oops-practice/
 ### Day 2 - Object Modelling and class diagram
 (Date - 30-Dec-2025)
 
+- Studied classes and objects and object modeling:
+  - Class Diagram, Object Diagrams, Sequence Diagrams
+
 ```
-JavaOopsConcepts
-└── src
-    └── com
-        └── bridgelabz
+ java-oops-practice/
+└── gcr-codebase/
+    └── JavaOopsConcepts/
+        └── src/
+            └── com/
             └── objectModeling
               └── levelOne
                 ├── bankAccountHolders
@@ -142,10 +146,49 @@ JavaOopsConcepts
                 ├── schoolAndStudents
 
 ```
-
-- Studied classes and objects and object modeling:
-  - Class Diagram, Object Diagrams, Sequence Diagrams
 - Learned object relationships:
   - Association, Aggregation, Composition
 Committed and pushed all work.
 🔗 Code Link: 👉 [Object Modelling](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling/levelOne)
+
+
+### Day 3 - Java Inheritance and Types
+(Date - 31-Dec-2025)
+
+- Studied inheritance and its types:
+  - Singlelevel, Multilevel, Hierarchical, Hybrid 
+- Method Overriding and @Override
+- Constructor inheritance super()
+- Polymorphism
+  - Compile time and Runtime  
+- Access Modifiers
+  - public, protected, private, Default 
+```
+ java-oops-practice/
+└── gcr-codebase/
+    └── JavaOopsConcepts/
+        └── src/
+            └── com/
+                 ├──inheritance
+                      ├───AssistedProblems
+                      │   ├───AnimaHierarchy
+                      │   ├───EmployeeManagementSystem
+                      │   └───VehicleandTransportSystem
+                      ├───HierarchicalInheritance
+                      │   ├───BankAccountTypes
+                      │   └───SchoolSystemwithDifferentRoles
+                      ├───HybridInheritance
+                      │   ├───RestaurantManagementSystem
+                      │   └───VehicleManagementSystem
+                      ├───MultilevelInheritance
+                      │   ├───EducationalCourseHierarchy
+                      │   └───OnlineRetailOrderManagement
+                      └───SingleInheritance
+                          ├───LibraryManagementwithBooksandAuthors
+                           └───SmartHomeDevices
+
+```
+- Committed and pushed all work on repository .
+🔗 Code Link:[Inheritance and types]( https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
+
+
