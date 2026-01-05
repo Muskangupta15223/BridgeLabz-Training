@@ -1,6 +1,7 @@
 # BridgeLabz-Training
 
 ## Week 2: Object-Oriented Programming in Java
+## Section A : Training Learning Progres
 
 ### Day 5 – OOPs Concepts
 (Date: 26-Dec-2025)
@@ -194,7 +195,7 @@ java-oops-practice/
 - 🔗 Code Link:[Inheritance and types]( https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
 
 ### Day 14 – Java Encapsulation & Polymorphism
-(Date: 01-Dec-2026)
+(Date: 01-Jan-2026)
 
 - Studied Encapsulation & Polymorphism:
 - Types of Polymorphism
@@ -220,11 +221,33 @@ java-oops-practice/
                     ├── librarymanagementsystem/
                     ├── ridehailingapplication/
 
-
-
 ```
 - Learned more about best practices.
 - Committed and pushed all work.
 - 🔗 Code Link:[ Encapsulation And polmorphism ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
 
+## Section B : Scenario-Based Problems
 
+### Day 15 – Oops-Scenario-Based Practice
+(Date: 02-Jan-2026)
+
+- Solved 5 scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- 
+```
+ java-oops-practice/
+└── scenario-based-codebase/
+    └── JavaOopsScenarioBased/
+        └── src/
+            └── com/
+                ├── CabbyGo/
+                ├── VehicleRentalApplication/
+                ├── hospitalPatientManagementSysem/
+                ├── ewalletapplication/
+                ├── smarthomeautomatiosystem/
+                ├──universityCourseEnrollmentSystem/
+                ├── MyBankAccounts/
+
+```
+- Committed and pushed all solutions.
+- Code Links [Scenario Based](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com) 
