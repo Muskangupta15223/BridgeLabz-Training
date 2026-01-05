@@ -122,4 +122,30 @@ java-oops-practice/
 - Learned instance vs class (static) variables and methods.
 - Committed and pushed all work.
 
+### Day 2 - Object Modelling and class diagram
+(Date - 30-Dec-2025)
 
+```
+JavaOopsConcepts
+└── src
+    └── com
+        └── bridgelabz
+            └── objectModeling
+              └── levelOne
+                ├── bankAccountHolders
+                ├── hospitalManagement
+                ├── UniversityManagement
+                ├── companyAndDepartments
+                ├── university
+                ├── Ecommerceplattform
+                ├── libraryBooks
+                ├── schoolAndStudents
+
+```
+
+- Studied classes and objects and object modeling:
+  - Class Diagram, Object Diagrams, Sequence Diagrams
+- Learned object relationships:
+  - Association, Aggregation, Composition
+Committed and pushed all work.
+🔗 Code Link: 👉 [Object Modelling](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling/levelOne)
