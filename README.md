@@ -10,12 +10,14 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ##  Repository Branches
 
-### 🔹 [core-java-practice](https://github.com/yourusername/BridgeLabz-Training/tree/core-java-practice)
+### 🔹 [core-java-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-java-practice)
 **Week 1-2**: Fundamentals of Java Programming
 
-### 🔹 [java-oops-practice](https://github.com/yourusername/BridgeLabz-Training/tree/java-oops-practice)
+### 🔹 [java-oops-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice)
 **Week 2**: Object-Oriented Programming
 
+### 🔹 [dsa-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice)
+**Week 3**: Data-Structure-Algorithm
 ---
 
 ##  Key Concepts Covered
@@ -31,9 +33,14 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### Object-Oriented Programming (java-oops-practice)
 -  **Classes & Objects**: Creating and instantiating objects
 -  **Encapsulation**: Data hiding and access modifiers
+-  **PolyMorphism**: Method overLoading and overriding 
 -  **Constructors**: Default, parameterized, overloading
 -  **Abstraction**: Interface-based design patterns
 
+### Data-Structure-Algorithm (dsa-practice)
+- **Linked List** : Dynamic node-based data structure, Singly,doubly,circular.
+- **Stack** : LIFO-based linear data structure.
+- **Queue** : FIFO-based linear data structure. 
 ---
 
 ## Scenario-based 
@@ -50,7 +57,9 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
  | 18-dec  |       Control Flows          |   43 programss (level1,2& 3)      |
  | 19-dec  |         Arrays               |   18 program(level1 & Level2)     |
  | 20-dec  |         Methods              |   35 program(level1, 2 & 3)       |
-``` 
+```
+--------
+
 ## Week2
 ```
 | 22-dec  |         Strings              |   30 program(level, 2 & 3)        |
@@ -59,6 +68,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | 26-dec  |Scenario-based & OOPs Concept |   5 scenario-based &10 programs   |
 | 27-dec  |       Constructor            |   13 programs & theory            |
 ```
+---------
 
 # Week-3
 ```
@@ -69,3 +79,5 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | 02-Jan  |  Oops Scenario & LinkedList  |   5 scenario & 05 programs        |
 | 03-Jan  | Oops Scenario Based Question |   2 scenario & some questions     |
   ```
+------------
+
