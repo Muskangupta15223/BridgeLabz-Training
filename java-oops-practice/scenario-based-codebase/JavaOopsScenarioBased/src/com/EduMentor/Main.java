@@ -7,15 +7,12 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-        // Learners
         Learner l1 = new Learner("Muskan", "mus@123", 123, "ShortCourse");
         Learner l2 = new Learner("Raghav", "rag@123", 513, "ShortCourse");
         Learner l3 = new Learner("Krishna", "krish@123", 567, "FullCourse");
 
-        // Quiz
-        Quiz quiz = new Quiz("Medium");
 
-        // 🔥 HARD-CODED QUESTIONS
+        Quiz quiz = new Quiz("Medium");
         quiz.addQuestion(
             "What is Java?",
             Arrays.asList("Programming Language", "OS", "Browser", "Hardware"),
