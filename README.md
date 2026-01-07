@@ -243,6 +243,9 @@ java-oops-practice/
                 ├── CabbyGo/
                 ├── CampusConnect/
                 ├── EduMentor/
+                ├── eventease/
+                ├── parkEase/
+                ├── BookBazar/
                 ├── VehicleRentalApplication/
                 ├── FitTrack/
                 ├── PetPal/
