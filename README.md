@@ -244,6 +244,9 @@ java-oops-practice/
                 ├── CampusConnect/
                 ├── EduMentor/
                 ├── VehicleRentalApplication/
+                ├── FitTrack/
+                ├── PetPal/
+                ├── SwiftCart/
                 ├── hospitalPatientManagementSysem/
                 ├── ewalletapplication/
                 ├── smarthomeautomatiosystem/
