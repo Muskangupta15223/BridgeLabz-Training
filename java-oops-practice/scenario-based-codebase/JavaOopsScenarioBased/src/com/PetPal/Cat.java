@@ -2,7 +2,6 @@ package com.PetPal;
 
 public class Cat extends Pet {
 
-	
 	Cat(String name, String type, int age,int hungerLevel, int energyLevel ){
 		super(name, type, age, hungerLevel, energyLevel);
 	}
