@@ -43,4 +43,45 @@ dsa-practice/
                 ├── textEditorFunctionality/
                 └── ticketReservation/
 ```
+----------
+# Day 2 – Stack, Queue & HashMap
+
+**(Date: 03-Jan-2026)**
+
+- Studied core data structures:
+- Stack
+- Queue
+- HashMap
+- Understood basic operations and use cases of each.
+
+```
+dsa-practice/
+└── gcr-codebase/
+    └── src/
+        └── com/
+            └── stacksQueues/
+                └── stackQueues/
+                    ├── circularTour/
+                    ├── queueUsingStacks/
+                    ├── slidingWindowMaximum/
+                    ├── sortStackRecursion/
+                    └── stockSpanProblem/
+```
+------
+```
+dsa-practice/
+└── gcr-codebase/
+    └── src/
+        └── com/
+            └── stacksQueues/
+                └──hashMap/
+                    ├── AllSubarrayWithZeroSum.java
+                    ├── CustomHashMap.java
+                    ├── LongestConsecutiveSequence.java
+                    ├── PairWithGivenSum.java
+                    └──TwoSum.java
+
+``` 
+- Committed and pushed all work.
+- 
 ### 🧩 Section B : Scenario-Based Problems Progress
