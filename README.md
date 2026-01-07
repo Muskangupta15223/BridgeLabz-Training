@@ -1,24 +1,45 @@
- # BridgeLabz-Training
- ------
-## 🗓 Week 3 : Data Structures & Algorithms in Java
+ # Week 3: Data Structures & Algorithms -
 
-### 📘 Section A : Training Learning Progress
-
-##  Day 15 – Introduction to Data Structures & Algorithms
-(Date: 02-Jan-2026)
-
-- Set up and revised the dsa-practice branch structure.
-- 
+## Overview of folder stucture
+-------
 ```
- BridgeLabz-Training/
-   │── dsa-practice/
-   │ 	│── gcr-codebase/
-   │ 	│── leet-code-codebase/
-   │ 	│── scenario-based-codebase/
-   │── README.md
+dsa-practice/
+└── gcr-codebase/
+    └── src/
+        └── com/
+             ├──linkedList/
+             ├──StackAndQueue/
+             ├──HashMapAndFunction/ 
+             └── sorting/              
+```
+ 
+-------
 
-  ```
-- Studied basics of Data Structures & Algorithms (DSA).
-- Learned why DSA is used in modern applications.
-----------
+## Day 1 – LinkedList Implementation
+
+**(Date: 2-Jan-2026)**
+
+- Singly Linked List operations (insertion, deletion, traversal)
+- Node structure and pointer manipulation
+- Memory efficient data organization
+- Real-world application of LinkedList data structure
+- Custom implementation without using built-in Java Collections
+
+### Project Structure:
+```
+dsa-practice/
+└── gcr-codebase/
+    └── src/
+        └── com/
+            └── linkedList/
+                ├── inventoryManagementSystem/
+                ├── libraryManagementSystem/
+                ├── movieManagementSystem/
+                ├── roundRobinScheduler/
+                ├── socialMediaConnections/
+                ├── studentRecordManagement/
+                ├── taskScheduler/
+                ├── textEditorFunctionality/
+                └── ticketReservation/
+```
 ### 🧩 Section B : Scenario-Based Problems Progress
