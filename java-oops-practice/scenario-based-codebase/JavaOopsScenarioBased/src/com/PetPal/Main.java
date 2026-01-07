@@ -20,11 +20,5 @@ public class Main {
 		p1.updateMood();
 		System.out.println(p1.getMood());
 		
-	}
-	
-	
-	
-	
-	
-	
+	}	
 }
