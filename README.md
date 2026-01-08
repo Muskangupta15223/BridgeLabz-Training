@@ -136,9 +136,10 @@ BridgeLabz-Training/
 |---------|-------------------------------|--------------------------------|
 | 02-Jan  |  Oops Scenario & LinkedList   |  5 scenario & 05 programs      |
 | 03-Jan  | Oops Scenario Based Question  |  2 scenario & some questions   |
-| 04-Jan  |       StackAndQueues          |  5 stack and queues questions  |
+| 05-Jan  |       StackAndQueues          |  5 stack and queues questions  |
 | 05-Jan  |   HashMap & Sceario Based     |  2 scenario 5 questions        |
-| 06-Jan  | OOps Sceario Based & sorting  |  5 scenario based questions    |
+| 06-Jan  | OOps Sceario Based & sorting  |  5 scenario and 7 sorting      |
+| 07-Jan  | OOps Sceario Based & searching|  5 scenario and  7 searching   |
 
 ------------
 ### 🎓 Learnings & Best Practices
