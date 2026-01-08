@@ -1,9 +1,10 @@
 # BridgeLabz-Training
 
 ## Week 2: Object-Oriented Programming in Java
+
 ## Section A : Training Learning Progres
 
-### Day 5 – OOPs Concepts
+### Day 1 – OOPs Concepts
 (Date: 26-Dec-2025)
 
 - Learned How to use Eclipse IDE.
@@ -36,9 +37,9 @@ java-oops-practice/
 ```
 🔗[ClassAndObjects](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
 
----
+-----
 
-### Day 6 – Constructors, Instance and Class Variables
+### Day 2 – Constructors, Instance and Class Variables
 (Date: 27-Dec-2025)
 
 - Learned about Constructors in Java.
@@ -95,9 +96,9 @@ java-oops-practice/
 ```
 🔗 [Constructors](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/levelone)
 
-## Week 3 : Features Of Object-Oriented Programming
+-----
 
-### Day 1 - Static & This Keyword
+### Day 3 - Static & This Keyword
 (Date - 29-Dec-2025)
 
 - Studied Java keywords:
@@ -125,7 +126,9 @@ java-oops-practice/
 - Committed and pushed all work. 
 -  🔗 Code Link: 👉 [Static and This Keyword ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inbuiltfunction/levelOne)
 
-### Day 2 - Object Modelling and class diagram
+-----
+
+### Day 4 - Object Modelling and class diagram
 (Date - 30-Dec-2025)
 
 - Studied classes and objects and object modeling:
@@ -154,8 +157,9 @@ java-oops-practice/
 - Committed and pushed all work.
 - 🔗 Code Link: 👉 [Object Modelling](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling/levelOne)
 
+------
 
-### Day 3 - Java Inheritance and Types
+### Day 5 - Java Inheritance and Types
 (Date - 31-Dec-2025)
 
 - Studied inheritance and its types:
@@ -194,7 +198,9 @@ java-oops-practice/
 - Committed and pushed all work on repository .
 - 🔗 Code Link:[Inheritance and types]( https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance)
 
-### Day 14 – Java Encapsulation & Polymorphism
+-----
+
+### Day 6 – Java Encapsulation & Polymorphism
 (Date: 01-Jan-2026)
 
 - Studied Encapsulation & Polymorphism:
@@ -225,15 +231,17 @@ java-oops-practice/
 - Learned more about best practices.
 - Committed and pushed all work.
 - 🔗 Code Link:[ Encapsulation And polmorphism ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/encapsulation)
+ 
+-----
 
 ## Section B : Scenario-Based Problems
 
-### Day 15 – Oops-Scenario-Based Practice
-(Date: 02-Jan-2026)
+### Day 7 – Oops-Scenario-Based Practice
+(Date: 02-Jan-2026 to 07-Jan-2026)
 
 - Solved 5 scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
-- 
+  
 ```
  java-oops-practice/
 └── scenario-based-codebase/
@@ -243,6 +251,9 @@ java-oops-practice/
                 ├── CabbyGo/
                 ├── CampusConnect/
                 ├── EduMentor/
+                ├── eventease/
+                ├── parkEase/
+                ├── BookBazar/
                 ├── VehicleRentalApplication/
                 ├── FitTrack/
                 ├── PetPal/
