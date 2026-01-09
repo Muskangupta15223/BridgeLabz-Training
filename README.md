@@ -60,11 +60,11 @@ BridgeLabz-Training/
     └── 📁 gcr-codebase/
          └── 📁 JavaDsaPractice/
         └── 📁 src/com/
-            ├── 📁 linkedList/                                     # LinkedList Implementation (Day 17)
-            ├── 📁 stacksQueues/                                   # Stack & Queue (Day 18)
-            ├── 📁 hashMapAndFunctions/                            # HashMap (Day 18)
-            └── 📁 sortingAlgorithms/                              # Sorting Algorithms (Day 19)
-
+            ├── 📁 linkedList/                                  # LinkedList Implementation (Day 17)
+            ├── 📁 stacksQueues/                                # Stack & Queue (Day 18)
+            ├── 📁 hashMapAndFunctions/                         # HashMap (Day 18)
+            ├── 📁 sortingAlgorithms/                           # Sorting Algorithms (Day 19)
+            ├── 📁 linearandbinarysearch/                       # Searching algorithm ( Day 20)     
 ```
 ---
 
@@ -141,6 +141,7 @@ BridgeLabz-Training/
 | 06-Jan  | OOps Sceario Based & sorting  |  5 scenario and 7 sorting      |
 | 07-Jan  | OOps Sceario Based & searching|  5 scenario and  7 searching   |
 | 08-Jan  |     OOps Sceario Based        |      3 scenario problem        |
+| 09-Jan  |     OOps Sceario Based        |    3 more scenario problem     |
 
 
 ------------
