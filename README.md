@@ -140,6 +140,8 @@ BridgeLabz-Training/
 | 05-Jan  |   HashMap & Sceario Based     |  2 scenario 5 questions        |
 | 06-Jan  | OOps Sceario Based & sorting  |  5 scenario and 7 sorting      |
 | 07-Jan  | OOps Sceario Based & searching|  5 scenario and  7 searching   |
+| 08-Jan  |     OOps Sceario Based        |      3 scenario problem        |
+
 
 ------------
 ### 🎓 Learnings & Best Practices
