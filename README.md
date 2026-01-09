@@ -44,6 +44,7 @@ java-dsa-practice/
                 ├── textEditorFunctionality/
                 └── ticketReservation/
 ```
+🔗👉[LinkedList]( https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 ----------
 # Day 2 – Stack, Queue & HashMap
 
@@ -84,10 +85,10 @@ java-dsa-practice/
 
 ``` 
 - Committed and pushed all work.
-
+🔗👉[StackAndQueue](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/StackAndQueue)
+🔗👉[HashMap and HashFunction](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/HashMapAndHashFunction)
   ----------
 # Day 3 – Sorting
-
 **(Date: 05-Jan-2026)**
 
 - Studied core data structures sorting techniques:
@@ -114,6 +115,36 @@ java-dsa-practice/
 
 ```
 - Committed and pushed all work.
+🔗👉[ Sorting ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+  ----------
 
+  # Day 4 – Searching
+**(Date: 06-Jan-2026)**
+
+- Studied core data structures searching techniques:
+- binary search
+- linear search
+- String buffer and string builder
+- file reader and input stream
+- Understood basic operations and use cases of each.
+
+```
+java-dsa-practice/
+└── gcr-codebase/
+   └── JavaDsaPractice/
+       └── src/
+           └── com/
+            └── linearandbinarysearch/
+                ├── binarysearch/
+                ├── filereader/
+                ├── inputstream/
+                ├── stringbuffer/
+                ├── stringbuilder/
+                ├── challengeproblem/
+                ├── linearsearch/
+
+```
+- Committed and pushed all work.
+ 🔗👉[ LinearAndBinarySearch ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
   ----------
 ### 🧩 Section B : Scenario-Based Problems Progress
