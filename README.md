@@ -253,6 +253,10 @@ java-oops-practice/
                 ├── EduMentor/
                 ├── eventease/
                 ├── parkEase/
+                ├── FoodLoop/
+                ├── skillFordge/
+                ├── Artify/
+                ├── LoanBuddy/
                 ├── BookBazar/
                 ├── VehicleRentalApplication/
                 ├── FitTrack/
