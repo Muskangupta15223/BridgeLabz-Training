@@ -40,6 +40,7 @@ public class SearchMain {
             System.out.println("Linear Search Time: " + linearTime / 1_000_000.0 + " ms");
             System.out.println("Binary Search Time: " + binaryTime / 1_000_000.0 + " ms");
             System.out.println("----------------------------------");
+       
         }
     }
 }
