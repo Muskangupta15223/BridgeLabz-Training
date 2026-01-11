@@ -3,11 +3,11 @@
 ## Overview of folder stucture
 -------
 ```
-
-dsa-practice/
+java-dsa-practice/
 └── gcr-codebase/
-    └── src/
-        └── com/
+   └── JavaDsaPractice/
+       └── src/
+           └── com/
              ├──linkedList/
              ├──StackAndQueue/
              ├──HashMapAndFunction/ 
@@ -28,11 +28,12 @@ dsa-practice/
 
 ### Project Structure:
 ```
-dsa-practice/
+java-dsa-practice/
 └── gcr-codebase/
-    └── src/
-        └── com/
-            └── linkedList/
+   └── JavaDsaPractice/
+       └── src/
+           └── com/
+              └── linkedList/
                 ├── inventoryManagementSystem/
                 ├── libraryManagementSystem/
                 ├── movieManagementSystem/
@@ -43,6 +44,7 @@ dsa-practice/
                 ├── textEditorFunctionality/
                 └── ticketReservation/
 ```
+🔗👉[LinkedList]( https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linkedlist)
 ----------
 # Day 2 – Stack, Queue & HashMap
 
@@ -55,33 +57,94 @@ dsa-practice/
 - Understood basic operations and use cases of each.
 
 ```
-dsa-practice/
+java-dsa-practice/
 └── gcr-codebase/
-    └── src/
-        └── com/
-            └── stacksQueues/
-                └── stackQueues/
-                    ├── circularTour/
-                    ├── queueUsingStacks/
-                    ├── slidingWindowMaximum/
-                    ├── sortStackRecursion/
-                    └── stockSpanProblem/
+   └── JavaDsaPractice/
+       └── src/
+           └── com/
+             └── stacksQueues/
+                ├── circularTour/
+                ├── queueUsingStacks/
+                ├── slidingWindowMaximum/
+                ├── sortStackRecursion/
+                └── stockSpanProblem/
 ```
-------
+-------
 ```
-dsa-practice/
+java-dsa-practice/
 └── gcr-codebase/
-    └── src/
-        └── com/
-            └── stacksQueues/
-                └──hashMap/
-                    ├── AllSubarrayWithZeroSum.java
-                    ├── CustomHashMap.java
-                    ├── LongestConsecutiveSequence.java
-                    ├── PairWithGivenSum.java
-                    └──TwoSum.java
+   └── JavaDsaPractice/
+       └── src/
+           └── com/
+            └──hashMapAndFunctions/
+                ├── AllSubarrayWithZeroSum.java
+                ├── CustomHashMap.java
+                ├── LongestConsecutiveSequence.java
+                ├── PairWithGivenSum.java
+                └──TwoSum.java
 
 ``` 
 - Committed and pushed all work.
-- 
+🔗👉[StackAndQueue](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/StackAndQueue)
+🔗👉[HashMap and HashFunction](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/HashMapAndHashFunction)
+  ----------
+# Day 3 – Sorting
+**(Date: 05-Jan-2026)**
+
+- Studied core data structures sorting techniques:
+- merge sort
+- quick sort
+- bubble sort
+- selection sort
+- Understood basic operations and use cases of each.
+
+```
+java-dsa-practice/
+└── gcr-codebase/
+   └── JavaDsaPractice/
+       └── src/
+           └── com/
+            └── sorting/
+                ├── bubblesort/
+                ├── countingsort/
+                ├── heapsort/
+                ├── insertionsort/
+                ├── mergesort/
+                ├── quicksort/
+                ├── selectionsort/
+
+```
+- Committed and pushed all work.
+🔗👉[ Sorting ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/sorting)
+  ----------
+
+  # Day 4 – Searching
+**(Date: 06-Jan-2026)**
+
+- Studied core data structures searching techniques:
+- binary search
+- linear search
+- String buffer and string builder
+- file reader and input stream
+- Understood basic operations and use cases of each.
+
+```
+java-dsa-practice/
+└── gcr-codebase/
+   └── JavaDsaPractice/
+       └── src/
+           └── com/
+            └── linearandbinarysearch/
+                ├── binarysearch/
+                ├── filereader/
+                ├── inputstream/
+                ├── stringbuffer/
+                ├── stringbuilder/
+                ├── challengeproblem/
+                ├── linearsearch/
+
+```
+- Committed and pushed all work.
+ 🔗👉[ LinearAndBinarySearch ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
+  ----------
 ### 🧩 Section B : Scenario-Based Problems Progress
