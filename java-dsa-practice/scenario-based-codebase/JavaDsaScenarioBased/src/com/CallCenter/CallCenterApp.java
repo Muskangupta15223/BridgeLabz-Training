@@ -8,7 +8,7 @@ public class CallCenterApp {
 	        center.receiveCall(new Customer("C101", "Krishna", false));
 	        center.receiveCall(new Customer("C102", "Neha", true));
 	        center.receiveCall(new Customer("C103", "Ravi", false));
-	        center.receiveCall(new Customer("C102", "Soumya", true));
+	        center.receiveCall(new Customer("C102", "Harshita", true));
 
 	        center.handleCall();
 	        center.handleCall();
