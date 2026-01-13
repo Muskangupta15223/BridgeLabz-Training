@@ -64,7 +64,8 @@ BridgeLabz-Training/
             ├── 📁 stacksQueues/                                # Stack & Queue (Day 18)
             ├── 📁 hashMapAndFunctions/                         # HashMap (Day 18)
             ├── 📁 sortingAlgorithms/                           # Sorting Algorithms (Day 19)
-            ├── 📁 linearandbinarysearch/                       # Searching algorithm ( Day 20)     
+            ├── 📁 linearandbinarysearch/                       # Searching algorithm ( Day 20)
+               
 ```
 ---
 
@@ -141,8 +142,11 @@ BridgeLabz-Training/
 | 06-Jan  | OOps Sceario Based & sorting  |  5 scenario and 7 sorting      |
 | 07-Jan  | OOps Sceario Based & searching|  5 scenario and  7 searching   |
 | 08-Jan  |     OOps Sceario Based        |      3 scenario problem        |
-| 09-Jan  |     OOps Sceario Based        |    3 more scenario problem     |
 
+## Week - 4
+| 09-Jan  |     OOps Sceario Based       |    3 more scenario problem     |
+| 10-Jan  |     Dsa Sceario Based        |    3 more scenario problem     |
+| 12-Jan  |  Dsa & OOPs Sceario Based    |    5 more scenario problem     |
 
 ------------
 ### 🎓 Learnings & Best Practices
