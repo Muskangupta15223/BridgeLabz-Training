@@ -144,6 +144,8 @@ BridgeLabz-Training/
 | 08-Jan  |     OOps Sceario Based        |      3 scenario problem        |
 
 ## Week - 4
+| Date    |     Topic                     | Programs Completed            |
+|---------|-------------------------------|-------------------------------|
 | 09-Jan  |     OOps Sceario Based       |    3 more scenario problem     |
 | 10-Jan  |     Dsa Sceario Based        |    3 more scenario problem     |
 | 12-Jan  |  Dsa & OOPs Sceario Based    |    5 more scenario problem     |
