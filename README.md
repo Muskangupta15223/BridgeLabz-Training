@@ -148,3 +148,15 @@ java-dsa-practice/
  🔗👉[ LinearAndBinarySearch ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice/gcr-codebase/JavaDsaPractice/src/com/linearandbinarysearch)
   ----------
 ### 🧩 Section B : Scenario-Based Problems Progress
+**(Date: 10-Jan-2026)**
+- solved multiple dsa scenario based problems
+```
+java-dsa-practice/
+└── gcr-codebase/
+   └── JavaDsaScenarioPractice/
+       └── src/
+           └── com/
+             ├──ambulanceroute/
+             ├──bookshelf/
+             └── browserbuddy/              
+```
