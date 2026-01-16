@@ -48,11 +48,11 @@ BridgeLabz-Training/
 │   │           │   ├── levelone/                                  # Basic OOPs (Day 10)
 │   │           │   └── leveltwo/                                  # Advanced OOPs
 │   │           ├── 📁 constructor/                                # Constructors (Day 11)
-│   │           ├── 📁 inbuiltfunction/                            # Inbuilt Functions [tatic & This] (Day 12)
+│   │           ├── 📁 inbuiltfunction/                            # Inbuilt Functions [static & This] (Day 12)
 │   │           ├── 📁 object-modeling/                            # Object Modeling (Day 13)
 │   │           ├── 📁 inheritance/                                # Inheritance (Day 15)
 │   │           └── 📁 encapsulation/                              # Encapsulation (Day 16)
-│   └── 📁 scenario-based-codebase/                                # OOPs Applications (Day 14-18)
+│   └── 📁 scenario-based-codebase/                                # OOPs Applications (Day 14--*)
 │
 │
 │
@@ -65,7 +65,7 @@ BridgeLabz-Training/
             ├── 📁 hashMapAndFunctions/                         # HashMap (Day 18)
             ├── 📁 sortingAlgorithms/                           # Sorting Algorithms (Day 19)
             ├── 📁 linearandbinarysearch/                       # Searching algorithm ( Day 20)
-               
+│   └── 📁 scenario-based-codebase/                             # Dsa Scenario based applications(Day 23-- *)
 ```
 ---
 
@@ -128,6 +128,8 @@ BridgeLabz-Training/
 | 30-dec  |  Scenario & object modelling  |   5 scenario & 10 programs        |
 | 31-dec  |    Scenario & inheritance     |   5 scenario & 11 programs        |
 | 01-Jan  |Oops Scenario & Encapsulation  |   5 scenario & 08 programs        |
+| 02-Jan  |  Oops Scenario & LinkedList   |  5 scenario & 05 programs      |
+| 03-Jan  | Oops Scenario Based Question  |  2 scenario & some questions   |
 
 ---------
 
@@ -135,21 +137,20 @@ BridgeLabz-Training/
 
 | Date    |     Topic                     | Programs Completed             |
 |---------|-------------------------------|--------------------------------|
-| 02-Jan  |  Oops Scenario & LinkedList   |  5 scenario & 05 programs      |
-| 03-Jan  | Oops Scenario Based Question  |  2 scenario & some questions   |
-| 05-Jan  |       StackAndQueues          |  5 stack and queues questions  |
+| 05-Jan  |    Stack-Queue & Hashmap      |  5 stack and queues questions  |
 | 05-Jan  |   HashMap & Sceario Based     |  2 scenario 5 questions        |
 | 06-Jan  | OOps Sceario Based & sorting  |  5 scenario and 7 sorting      |
 | 07-Jan  | OOps Sceario Based & searching|  5 scenario and  7 searching   |
 | 08-Jan  |     OOps Sceario Based        |   3 OOPs scenario problem      |
+| 09-Jan  |     OOps Sceario Based        |    3 more scenario problem     |
+| 10-Jan  |     Dsa Sceario Based         |    3 more scenario problem     |
+| 12-Jan  |  Dsa & OOPs Sceario Based     |   5 DSA & 3 OOP scenario       |
+| 13-Jan  |  Dsa & OOPs Sceario Based     | 3 DSA & 2 OOPs scenario & Tree |
 
-## Week - 4
-| Date    |     Topic                     | Programs Completed            |
-|---------|-------------------------------|-------------------------------|
-| 09-Jan  |     OOps Sceario Based       |    3 more scenario problem     |
-| 10-Jan  |     Dsa Sceario Based        |    3 more scenario problem     |
-| 12-Jan  |  Dsa & OOPs Sceario Based    |   5 DSA & 3 OOP scenario       |
-| 13-Jan  |  Dsa & OOPs Sceario Based    | 3 DSA & 2 OOPs scenario & Tree |
+## Week - 4 - Collections
+| Date    |     Topic                     | Programs Completed              |
+|---------|-------------------------------|-------------------------------  |
+| 15-Jan  | Generics & 3 Sorting Scenario |5 scenario and 5 generics & graph|
 
 ------------
 ### 🎓 Learnings & Best Practices
