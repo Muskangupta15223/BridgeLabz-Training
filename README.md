@@ -35,7 +35,7 @@ java-oops-practice/
                         ├── PalindromeChecker.java
                         └── StudentsGrades.java
 ```
-🔗[ClassAndObjects](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+🔗[ ClassAndObjects ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
 
 -----
 
@@ -94,7 +94,7 @@ java-oops-practice/
                          |── MainVehicle.java
 
 ```
-🔗 [Constructors](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/levelone)
+🔗 [ Constructors ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/levelone)
 
 -----
 
@@ -155,7 +155,7 @@ java-oops-practice/
 - Learned object relationships:
   - Association, Aggregation, Composition
 - Committed and pushed all work.
-- 🔗 Code Link: 👉 [Object Modelling](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling/levelOne)
+- 🔗 Code Link: 👉 [ Object Modelling ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling/levelOne)
 
 ------
 
@@ -239,7 +239,7 @@ java-oops-practice/
 ### Day 7 – Oops-Scenario-Based Practice
 (Date: 02-Jan-2026 to 07-Jan-2026)
 
-- Solved 5 scenario-based problems.
+- Solved multiple scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
   
 ```
