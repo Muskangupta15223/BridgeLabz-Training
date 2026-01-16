@@ -150,7 +150,8 @@ BridgeLabz-Training/
 ## Week - 4 - Collections
 | Date    |     Topic                     | Programs Completed              |
 |---------|-------------------------------|-------------------------------  |
-| 15-Jan  | Generics & 3 Sorting Scenario |5 scenario and 5 generics & graph|
+| 15-Jan  | Generics & Sorting Scenario   |5 scenario and 5 generics & graph|
+| 16-Jan  |Collections & Sorting Scenario |3 scenario and 20 collections    |
 
 ------------
 ### 🎓 Learnings & Best Practices
