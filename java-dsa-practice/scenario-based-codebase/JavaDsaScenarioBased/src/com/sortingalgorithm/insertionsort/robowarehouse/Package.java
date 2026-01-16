@@ -1,4 +1,4 @@
-package com.robowarehouse;
+package com.sortingalgorithm.insertionsort.robowarehouse;
 
 public class Package {
     int weight;
