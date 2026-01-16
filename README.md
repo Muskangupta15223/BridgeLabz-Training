@@ -141,14 +141,15 @@ BridgeLabz-Training/
 | 05-Jan  |   HashMap & Sceario Based     |  2 scenario 5 questions        |
 | 06-Jan  | OOps Sceario Based & sorting  |  5 scenario and 7 sorting      |
 | 07-Jan  | OOps Sceario Based & searching|  5 scenario and  7 searching   |
-| 08-Jan  |     OOps Sceario Based        |      3 scenario problem        |
+| 08-Jan  |     OOps Sceario Based        |   3 OOPs scenario problem      |
 
 ## Week - 4
 | Date    |     Topic                     | Programs Completed            |
 |---------|-------------------------------|-------------------------------|
 | 09-Jan  |     OOps Sceario Based       |    3 more scenario problem     |
 | 10-Jan  |     Dsa Sceario Based        |    3 more scenario problem     |
-| 12-Jan  |  Dsa & OOPs Sceario Based    |    5 more scenario problem     |
+| 12-Jan  |  Dsa & OOPs Sceario Based    |   5 DSA & 3 OOP scenario       |
+| 13-Jan  |  Dsa & OOPs Sceario Based    | 3 DSA & 2 OOPs scenario & Tree |
 
 ------------
 ### 🎓 Learnings & Best Practices
