@@ -248,25 +248,30 @@ java-oops-practice/
     └── JavaOopsScenarioBased/
         └── src/
             └── com/
+                ├── Artify/
+                ├── BookBazar/
+                ├── budgetwise/
                 ├── CabbyGo/
                 ├── CampusConnect/
                 ├── EduMentor/
                 ├── eventease/
-                ├── parkEase/
-                ├── FoodLoop/
-                ├── skillFordge/
-                ├── Artify/
-                ├── LoanBuddy/
-                ├── BookBazar/
-                ├── VehicleRentalApplication/
-                ├── FitTrack/
-                ├── PetPal/
-                ├── SwiftCart/
-                ├── hospitalPatientManagementSysem/
                 ├── ewalletapplication/
-                ├── smarthomeautomatiosystem/
-                ├──universityCourseEnrollmentSystem/
+                ├── FitTrack/
+                ├── FoodLoop/
+                ├── gamebox/
+                ├── HomeNest/
+                ├── hospitalPatientManagementSysem/
+                ├── loanBuddy/
+                ├── MediStore/
                 ├── MyBankAccounts/
+                ├── ParkEase/
+                ├── PetPal/
+                ├── skillForge/
+                ├── smarthomeautomatiosystem/
+                ├── SwiftCart/
+                ├── TourMate/
+                ├──universityCourseEnrollmentSystem/
+                ├── VehicleRentalApplication/
 
 ```
 - Committed and pushed all solutions.
