@@ -31,7 +31,6 @@ public class IceCreamRushMain {
             System.out.println(i.getName() + " | " + i.getSold());
         }
 
-        // 🔹 CALL BUBBLE SORT HERE
         BubbleSort.bubblesortbysold(icecream);
 
         System.out.println("\n--- After Sorting (By Sold) ---");
