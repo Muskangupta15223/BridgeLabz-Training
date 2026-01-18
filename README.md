@@ -187,8 +187,13 @@ java-dsa-practice/
               ├──bookshelf/
               ├──browserbuddy/
               ├──callCenter/
+              ├──examproctor/
+              ├──parceltracker/
+              ├──payexpress/   
+              ├──smartcheckout/
               ├──traincompanion/
               ├──texteditor/
-              ├──trafficmanager/           
+              ├──trafficmanager/
+         
 ```
  - Committed and pushed all work.
