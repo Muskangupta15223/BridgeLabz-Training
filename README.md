@@ -193,12 +193,16 @@ java-dsa-practice/
               ├──smartcheckout/
               └──sortingalgorithm/
                  └──bubblesort/
-                    ├──hospitalqueue/
                     ├──cinemalhouse/
+                    ├──icecreamrush/
+                    ├──hospitalqueue/
                  └──insertionsort/
+                    ├──artexpo/
                     ├──smartshelf/
-                    ├──robowarehouse/ 
+                    ├──robowarehouse/
+                    ├──smartlibrary/ 
                  └──mergesort/
+                    ├──fleetmanager/
                     ├──zipzipmart/
                     ├──examcell/
                  └──quicksort/
