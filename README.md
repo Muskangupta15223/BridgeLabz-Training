@@ -191,6 +191,16 @@ java-dsa-practice/
               ├──parceltracker/
               ├──payexpress/   
               ├──smartcheckout/
+              └──sortingalgorithm/
+                 └──bubblesort/
+                    ├──hospitalqueue/ 
+                 └──insertionsort/
+                    ├──smartshelf/ 
+                 └──mergesort/
+                    ├──zipzipmart/
+                    ├──examcell/
+                 └──quicksort/
+                    ├──eventmanager/ 
               ├──traincompanion/
               ├──texteditor/
               ├──trafficmanager/
