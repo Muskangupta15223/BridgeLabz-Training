@@ -148,12 +148,14 @@ BridgeLabz-Training/
 | 13-Jan  |  Dsa & OOPs Sceario Based     | 3 DSA & 2 OOPs scenario & Tree |
 
 ## Week - 4 - Collections
+
 | Date    |     Topic                     | Programs Completed              |
 |---------|-------------------------------|-------------------------------  |
 | 15-Jan  | Generics & Sorting Scenario   |5 scenario and 5 generics & graph|
-| 16-Jan  |Collections & Sorting Scenario |3 scenario and 20 collections    |
-
+| 16-Jan  |Collections & Sorting Scenario | 3 scenario and 20 collections   |
+| 17-Jan  |    OOPs & Sorting Scenario    | 4 sorting and 2 oops scenario   |
 ------------
+
 ### 🎓 Learnings & Best Practices
 - Code Organization: Following industrial standards
 - Naming Conventions: Camel case, Pascal case and meaningful names
