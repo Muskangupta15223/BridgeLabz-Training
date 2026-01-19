@@ -35,7 +35,7 @@ java-oops-practice/
                         ├── PalindromeChecker.java
                         └── StudentsGrades.java
 ```
-🔗[ClassAndObjects](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
+🔗[ ClassAndObjects ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/classandobject)
 
 -----
 
@@ -94,7 +94,7 @@ java-oops-practice/
                          |── MainVehicle.java
 
 ```
-🔗 [Constructors](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/levelone)
+🔗 [ Constructors ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructors/levelone)
 
 -----
 
@@ -155,7 +155,7 @@ java-oops-practice/
 - Learned object relationships:
   - Association, Aggregation, Composition
 - Committed and pushed all work.
-- 🔗 Code Link: 👉 [Object Modelling](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling/levelOne)
+- 🔗 Code Link: 👉 [ Object Modelling ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodelling/levelOne)
 
 ------
 
@@ -237,9 +237,9 @@ java-oops-practice/
 ## Section B : Scenario-Based Problems
 
 ### Day 7 – Oops-Scenario-Based Practice
-(Date: 02-Jan-2026 to 07-Jan-2026)
+(Date: 02-Jan-2026)
 
-- Solved 5 scenario-based problems.
+- Solved multiple scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
   
 ```
@@ -248,26 +248,37 @@ java-oops-practice/
     └── JavaOopsScenarioBased/
         └── src/
             └── com/
+                ├── Artify/
+                ├── BagNBallOrganiser/
+                ├── birdSanctuary/
+                ├── BookBazar/
+                ├── budgetwise/
                 ├── CabbyGo/
                 ├── CampusConnect/
                 ├── EduMentor/
                 ├── eventease/
-                ├── parkEase/
-                ├── FoodLoop/
-                ├── skillFordge/
-                ├── Artify/
-                ├── LoanBuddy/
-                ├── BookBazar/
-                ├── VehicleRentalApplication/
-                ├── FitTrack/
-                ├── PetPal/
-                ├── SwiftCart/
-                ├── hospitalPatientManagementSysem/
                 ├── ewalletapplication/
-                ├── smarthomeautomatiosystem/
-                ├──universityCourseEnrollmentSystem/
+                ├── FitTrack/
+                ├── FoodLoop/
+                ├── gamebox/
+                ├── geomeasure/
+                ├── HomeNest/
+                ├── hospitalPatientManagementSysem/
+                ├── loanBuddy/
+                ├── MediStore/
                 ├── MyBankAccounts/
+                ├── ParkEase/
+                ├── PetPal/
+                ├── payexpress/
+                ├── skillForge/
+                ├── smarthomeautomatiosystem/
+                ├── SwiftCart/
+                ├── TourMate/
+                ├──universityCourseEnrollmentSystem/
+                ├── VehicleRentalApplication/
 
 ```
 - Committed and pushed all solutions.
 - Code Links [Scenario Based](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com) 
+
+---------
