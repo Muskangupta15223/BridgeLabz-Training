@@ -237,7 +237,7 @@ java-oops-practice/
 ## Section B : Scenario-Based Problems
 
 ### Day 7 – Oops-Scenario-Based Practice
-(Date: 02-Jan-2026 to 07-Jan-2026)
+(Date: 02-Jan-2026)
 
 - Solved multiple scenario-based problems.
 - Focused on logical thinking and real-world problem solving.
@@ -249,6 +249,7 @@ java-oops-practice/
         └── src/
             └── com/
                 ├── Artify/
+                ├── BagNBallOrganiser/
                 ├── birdSanctuary/
                 ├── BookBazar/
                 ├── budgetwise/
@@ -260,6 +261,7 @@ java-oops-practice/
                 ├── FitTrack/
                 ├── FoodLoop/
                 ├── gamebox/
+                ├── geomeasure/
                 ├── HomeNest/
                 ├── hospitalPatientManagementSysem/
                 ├── loanBuddy/
@@ -278,3 +280,5 @@ java-oops-practice/
 ```
 - Committed and pushed all solutions.
 - Code Links [Scenario Based](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/core-oops-practice/java-oops-practice/scenario-based-codebase/JavaOopsScenarioBased/src/com) 
+
+---------
