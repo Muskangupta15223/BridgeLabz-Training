@@ -191,9 +191,13 @@ java-dsa-practice/
               ├──parceltracker/
               ├──payexpress/   
               ├──smartcheckout/
+              ├──traincompanion/
+              ├──texteditor/
+              ├──trafficmanager/
               └──sortingalgorithm/
                  └──bubblesort/
                     ├──cinemalhouse/
+                    ├──fitnesstracker/
                     ├──icecreamrush/
                     ├──hospitalqueue/
                  └──insertionsort/
@@ -202,15 +206,15 @@ java-dsa-practice/
                     ├──robowarehouse/
                     ├──smartlibrary/ 
                  └──mergesort/
+                    ├──eduresult/
                     ├──fleetmanager/
                     ├──zipzipmart/
                     ├──examcell/
                  └──quicksort/
                     ├──eventmanager/
+                    ├──flashdealz/
                     ├──cropmonitor/
-              ├──traincompanion/
-              ├──texteditor/
-              ├──trafficmanager/
+
          
 ```
  - Committed and pushed all work.
