@@ -19,6 +19,8 @@ This repository serves as a living record of my Java training at BridgeLabz,span
 ### 🔹 [dsa-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dsa-practice/java-dsa-practice)
 **Week 3**: Data-Structure-Algorithm
 
+### 🔹 [java-collection-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-collection-practice)
+**Week 3**: Java-Collection-Practice
 ---
 
 ## 📂 Project Structure
@@ -65,6 +67,7 @@ BridgeLabz-Training/
             ├── 📁 hashMapAndFunctions/                         # HashMap (Day 18)
             ├── 📁 sortingAlgorithms/                           # Sorting Algorithms (Day 19)
             ├── 📁 linearandbinarysearch/                       # Searching algorithm ( Day 20)
+            ├── 📁 runtimeanalysis/                             # Runtime analysis (Day 21)   
 │   └── 📁 scenario-based-codebase/                             # Dsa Scenario based applications(Day 23-- *)
 ```
 ---
@@ -141,7 +144,7 @@ BridgeLabz-Training/
 | 05-Jan  |   HashMap & Sceario Based     |  2 scenario 5 questions        |
 | 06-Jan  | OOps Sceario Based & sorting  |  5 scenario and 7 sorting      |
 | 07-Jan  | OOps Sceario Based & searching|  5 scenario and  7 searching   |
-| 08-Jan  |     OOps Sceario Based        |   3 OOPs scenario problem      |
+| 08-Jan  |OOps Sceario Based & runtime   |   3 OOPs scenario& 10 problem  |
 | 09-Jan  |     OOps Sceario Based        |    3 more scenario problem     |
 | 10-Jan  |     Dsa Sceario Based         |    3 more scenario problem     |
 | 12-Jan  |  Dsa & OOPs Sceario Based     |   5 DSA & 3 OOP scenario       |
@@ -149,11 +152,12 @@ BridgeLabz-Training/
 
 ## Week - 4 - Collections
 
-| Date    |     Topic                     | Programs Completed              |
-|---------|-------------------------------|-------------------------------  |
-| 15-Jan  | Generics & Sorting Scenario   |5 scenario and 5 generics & graph|
-| 16-Jan  |Collections & Sorting Scenario | 3 scenario and 20 collections   |
-| 17-Jan  |    OOPs & Sorting Scenario    | 4 sorting and 2 oops scenario   |
+| Date    |     Topic                      | Programs Completed              |
+|---------|------------------------------ -|-------------------------------  |
+| 15-Jan  | Generics & Sorting Scenario    |5 scenario and 5 generics & graph|
+| 16-Jan  |Collections & Sorting Scenario  | 3 scenario and 20 collections   |
+| 17-Jan  |    OOPs & Sorting Scenario     | 4 sorting and 2 oops scenario   |
+| 19-Jan  |OOPs,Sorting Scenario & Streams |4 sorting or1 oops & 10 Stream   |
 ------------
 
 ### 🎓 Learnings & Best Practices
