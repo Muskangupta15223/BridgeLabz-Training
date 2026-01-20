@@ -20,7 +20,8 @@ This repository serves as a living record of my Java training at BridgeLabz,span
 **Week 3**: Data-Structure-Algorithm
 
 ### 🔹 [java-collection-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-collection-practice)
-**Week 3**: Java-Collection-Practice
+**Week 4**: Java-Collection-Practice
+
 ---
 
 ## 📂 Project Structure
@@ -30,15 +31,15 @@ BridgeLabz-Training/
 │
 ├── 📁 core-java-practice/                                        
 │   ├── 📁 gcr-codebase/                                           
-│   │   ├── 📁 prerequisites/                                      # Basic Java programs (Day 2)
-│   │   ├── 📁 programming-elements/                               # Level 1 & 2 exercises (Day 3)
-│   │   ├── 📁 control-flows/                                      # If-else, loops, switch (Day 4)
-│   │   ├── 📁 arrays/                                             # Array operations (Day 5)
-│   │   ├── 📁 methods/                                            # Method practices (Day 6)
-│   │   ├── 📁 strings/                                            # String manipulation (Day 7)
-│   │   └── 📁 Extras/                                             # Built-in methods & recursion (Day 8)
-│   ├── 📁 leet-code-codebase/                                     # LeetCode solutions (Day 9)
-│   └── 📁 scenario-based-codebase/                                # Real-world problems (Day 9-10)
+│   │   ├── 📁 prerequisites/                               # Basic Java programs (Day 2)
+│   │   ├── 📁 programming-elements/                        # Level 1 & 2 exercises (Day 3)
+│   │   ├── 📁 control-flows/                               # If-else, loops, switch (Day 4)
+│   │   ├── 📁 arrays/                                      # Array operations (Day 5)
+│   │   ├── 📁 methods/                                     # Method practices (Day 6)
+│   │   ├── 📁 strings/                                     # String manipulation (Day 7)
+│   │   └── 📁 Extras/                                      # Built-in methods & recursion (Day 8)
+│   ├── 📁 leet-code-codebase/                              # LeetCode solutions (Day 9)
+│   └── 📁 scenario-based-codebase/                         # Real-world problems (Day 9-10)
 │
 │
 │
@@ -47,28 +48,37 @@ BridgeLabz-Training/
 │   │   └── 📁 JavaOopsConcepts/
 │   │       └── 📁 src/com/
 │   │           ├── 📁 oops/
-│   │           │   ├── levelone/                                  # Basic OOPs (Day 10)
-│   │           │   └── leveltwo/                                  # Advanced OOPs
-│   │           ├── 📁 constructor/                                # Constructors (Day 11)
-│   │           ├── 📁 inbuiltfunction/                            # Inbuilt Functions [static & This] (Day 12)
-│   │           ├── 📁 object-modeling/                            # Object Modeling (Day 13)
-│   │           ├── 📁 inheritance/                                # Inheritance (Day 15)
-│   │           └── 📁 encapsulation/                              # Encapsulation (Day 16)
-│   └── 📁 scenario-based-codebase/                                # OOPs Applications (Day 14--*)
+│   │           │   ├── levelone/                           # Basic OOPs (Day 10)
+│   │           │   └── leveltwo/                           # Advanced OOPs
+│   │           ├── 📁 constructor/                         # Constructors (Day 11)
+│   │           ├── 📁 inbuiltfunction/                     # Inbuilt Functions [static & This] (Day 12)
+│   │           ├── 📁 object-modeling/                     # Object Modeling (Day 13)
+│   │           ├── 📁 inheritance/                         # Inheritance (Day 15)
+│   │           └── 📁 encapsulation/                       # Encapsulation (Day 16)
+│   └── 📁 scenario-based-codebase/                         # OOPs Applications (Day 14--*)
 │
 │
 │
 └── 📁 java-dsa-practice/
+│    │── 📁 gcr-codebase/
+│    │    └── 📁 JavaDsaPractice/
+│    │         └── 📁 src/com/
+│    │            ├── 📁 linkedList/                          # LinkedList Implementation (Day 17)
+│    │            ├── 📁 stacksQueues/                        # Stack & Queue (Day 18)
+│    │            ├── 📁 hashMapAndFunctions/                 # HashMap (Day 18)
+│    │            ├── 📁 sortingAlgorithms/                   # Sorting Algorithms (Day 19)
+│    │            ├── 📁 linearandbinarysearch/               # Searching algorithm ( Day 20)
+│    │            ├── 📁 runtimeanalysis/                     # Runtime analysis (Day 21)   
+│    └── 📁 scenario-based-codebase/                    # Dsa Scenario applications(Day 23-- *)
+│
+│
+│
+└── 📁 java-collections-practice/
     └── 📁 gcr-codebase/
-         └── 📁 JavaDsaPractice/
-        └── 📁 src/com/
-            ├── 📁 linkedList/                                  # LinkedList Implementation (Day 17)
-            ├── 📁 stacksQueues/                                # Stack & Queue (Day 18)
-            ├── 📁 hashMapAndFunctions/                         # HashMap (Day 18)
-            ├── 📁 sortingAlgorithms/                           # Sorting Algorithms (Day 19)
-            ├── 📁 linearandbinarysearch/                       # Searching algorithm ( Day 20)
-            ├── 📁 runtimeanalysis/                             # Runtime analysis (Day 21)   
-│   └── 📁 scenario-based-codebase/                             # Dsa Scenario based applications(Day 23-- *)
+         └── 📁 JavaCollectionConcept/
+              └── 📁 src/com/
+                    ├── 📁 generics/                              # generics (Day 26)
+                    ├── 📁 collections/                           # collections (Day 27)
 ```
 ---
 
