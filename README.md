@@ -162,12 +162,13 @@ BridgeLabz-Training/
 
 ## Week - 4 - Collections
 
-| Date    |     Topic                      | Programs Completed              |
-|---------|------------------------------ -|-------------------------------  |
-| 15-Jan  | Generics & Sorting Scenario    |5 scenario and 5 generics & graph|
-| 16-Jan  |Collections & Sorting Scenario  | 3 scenario and 20 collections   |
-| 17-Jan  |    OOPs & Sorting Scenario     | 4 sorting and 2 oops scenario   |
-| 19-Jan  |OOPs,Sorting Scenario & Streams |4 sorting or1 oops & 10 Stream   |
+| Date    |     Topic                      | Programs Completed               |
+|---------|--------------------------------|----------------------------------|
+| 15-Jan  | Generics & Sorting Scenario    |5 scenario and 5 generics & graph |
+| 16-Jan  |Collections & Sorting Scenario  | 3 scenario and 20 collections    |
+| 17-Jan  |    OOPs & Sorting Scenario     | 4 sorting and 2 oops scenario    |
+| 19-Jan  |OOPs,Sorting Scenario & Streams |4 sorting or1 oops & 10 Stream    |
+
 ------------
 
 ### 🎓 Learnings & Best Practices
