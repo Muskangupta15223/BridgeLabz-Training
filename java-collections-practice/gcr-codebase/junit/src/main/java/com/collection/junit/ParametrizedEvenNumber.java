@@ -1,0 +1,8 @@
+package com.collection.junit;
+
+public class ParametrizedEvenNumber {
+
+	public boolean isEven(int number) {
+		return number % 2 == 0;
+	}
+}
