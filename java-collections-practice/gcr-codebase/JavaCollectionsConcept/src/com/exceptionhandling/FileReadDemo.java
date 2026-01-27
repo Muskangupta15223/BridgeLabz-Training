@@ -1,7 +1,6 @@
 package com.exceptionhandling;
 
 import java.io.*;
-
 public class FileReadDemo {
     public static void main(String[] args) {
         try {
@@ -17,3 +16,4 @@ public class FileReadDemo {
         }
     }
 }
+
