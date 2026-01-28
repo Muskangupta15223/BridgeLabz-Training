@@ -186,7 +186,7 @@ BridgeLabz-Training/
 | Date    |     Topic                         | Programs Completed                |
 |---------|-----------------------------------|-----------------------------------|
 | 23-Jan  |  5 collectionscenario & CSV Data  |5 scenario and 15 csv data handling|
-
+| 24-Jan  |  5 collectionscenario & Json Data |5 scenario and 25json data handling|
 ----------
 
 ### 🎓 Learnings & Best Practices
