@@ -9,7 +9,7 @@ public class ExamScannerMain {
         try {
             List<String> key = Arrays.asList("A", "B", "C", "D", "A");
             ExamScanner<String> scanner = new ExamScanner<>(key);
-            Map<String, Integer> result = scanner.evaluate("D:\\BridgeLabz-Training\\java-collections-practice\\scenario-based\\JavaCollectionScenarioBased\\src\\com\\resources\\samplefiles\\answers\\answers.csv");
+            Map<String, Integer> result = scanner.evaluate("D:\\BridgeLabz-Training\\java-collections-practice\\scenario-based\\JavaCollectionScenarioBased\\src\\com\\resources\\samplefiles\\answers\\answers.csv	");
             PriorityQueue<Map.Entry<String, Integer>> pq = new PriorityQueue<>((a, b) ->b.getValue() - a.getValue());
             pq.addAll(result.entrySet());
 
