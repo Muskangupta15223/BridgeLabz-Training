@@ -170,6 +170,7 @@ BridgeLabz-Training/
 | 19-Jan  |  OOPs,Sorting Scenario & Streams  |4 sorting or1 oops & 10 Stream    |
 | 20-Jan  |  Sorting Scenario & Exceptions    |  3  sorting and 10 exception     |
 | 21-Jan  |Sorting,Tree Scenario& Regex,Junit |2sorting or 3 trees& 20regex,junit|
+| 22-Jan  |Tree Scenario&annotation,reflection|3avlTree & 30annotation,reflection|
 ------------
 
 ### 🎓 Learnings & Best Practices
