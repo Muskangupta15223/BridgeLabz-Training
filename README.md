@@ -168,7 +168,7 @@ BridgeLabz-Training/
 | 16-Jan  |Collections & Sorting Scenario  | 3 scenario and 20 collections    |
 | 17-Jan  |    OOPs & Sorting Scenario     | 4 sorting and 2 oops scenario    |
 | 19-Jan  |OOPs,Sorting Scenario & Streams |4 sorting or1 oops & 10 Stream    |
-
+| 20-Jan  |  Sorting Scenario & Exceptions |  3  sorting and 10 exception     |
 ------------
 
 ### 🎓 Learnings & Best Practices
