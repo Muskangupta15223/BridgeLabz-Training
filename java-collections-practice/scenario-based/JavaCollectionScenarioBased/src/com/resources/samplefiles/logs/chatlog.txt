@@ -1,0 +1,6 @@
+[09:15 AM] John: Hey, are you joining the meeting?
+[09:16 AM] Mary: Yes, just starting my laptop.
+[09:17 AM] John: lol this system is slow
+[09:18 AM] Alex: brb, coffee break
+[09:19 AM] Mary: I’ll check the Jenkins pipeline.
+[09:20 AM] John: The build failed again!
