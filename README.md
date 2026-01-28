@@ -22,6 +22,9 @@ This repository serves as a living record of my Java training at BridgeLabz,span
 ### 🔹 [java-collection-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-collection-practice)
 **Week 4**: Java-Collection-Practice
 
+### 🔹 [java-iostream-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-iostream-practice)
+**Week 4**: Java-iostream-Practice
+
 ---
 
 ## 📂 Project Structure
@@ -160,6 +163,8 @@ BridgeLabz-Training/
 | 12-Jan  |  Dsa & OOPs Sceario Based     |   5 DSA & 3 OOP scenario       |
 | 13-Jan  |  Dsa & OOPs Sceario Based     | 3 DSA & 2 OOPs scenario & Tree |
 
+---------------
+
 ## Week - 4 - Collections
 
 | Date    |     Topic                         | Programs Completed               |
@@ -171,7 +176,16 @@ BridgeLabz-Training/
 | 20-Jan  |  Sorting Scenario & Exceptions    |  3  sorting and 10 exception     |
 | 21-Jan  |Sorting,Tree Scenario& Regex,Junit |2sorting or 3 trees& 20regex,junit|
 | 22-Jan  |Tree Scenario&annotation,reflection|3avlTree & 30annotation,reflection|
+
 ------------
+
+## Week - 5 - Iostream
+
+| Date    |     Topic                         | Programs Completed                |
+|---------|-----------------------------------|-----------------------------------|
+| 23-Jan  |  5 collectionscenario & CSV Data  |5 scenario and 15 csv data handling|
+
+----------
 
 ### 🎓 Learnings & Best Practices
 - Code Organization: Following industrial standards
