@@ -82,6 +82,8 @@ BridgeLabz-Training/
               └── 📁 src/com/
                     ├── 📁 generics/                              # generics (Day 26)
                     ├── 📁 collections/                           # collections (Day 27)
+                    ├── 📁 streams/                              # streams (Day 29)
+                    ├── 📁 exceptions/                           # exceptions (Day 30)
 ```
 ---
 
