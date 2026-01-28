@@ -1,5 +1,4 @@
 package com.collections.travellog;
-
 import java.io.IOException;
 import java.time.LocalDate;
 
@@ -7,9 +6,7 @@ public class TravelLogMain {
 
 	public static void main(String[] args) throws IOException, ClassNotFoundException {
 		TravelLogManager manager = new TravelLogManager();
-
-		String folder = "samplefiles/trips";
-
+		String folder = "D:\\BridgeLabz-Training\\java-collections-practice\\scenario-based\\JavaCollectionScenarioBased\\src\\com\\resources\\samplefiles\\trips";
 		manager.addTrip(new Trip("1", "Paris", "France", LocalDate.of(2025, 1, 1), LocalDate.of(2025, 1, 10),
 				"Visited Eiffel in Paris"), folder);
 		manager.addTrip(new Trip("2", "Berlin", "Germany", LocalDate.of(2025, 2, 1), LocalDate.of(2025, 2, 3),
@@ -27,12 +24,10 @@ public class TravelLogMain {
 		System.out.println("All cities from notes: \n" + manager.findCities());
 
 		System.out.println("\nLong trips (>5 days): ");
-		System.out.println("------------------------------------------------------------");
+	
 		for (Trip t : manager.longTrips()) {
 			System.out.println(t);
 		}
-		System.out.println("------------------------------------------------------------");
-
 		System.out.println("\nUnique countries: \n" + manager.uniqueCountries());
 		System.out.println("\nTop 3 cities: \n" + manager.topCities());
 	}
