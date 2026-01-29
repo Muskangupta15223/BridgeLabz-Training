@@ -178,28 +178,14 @@ java-collections-practice/
 Day 5 – Regular Expressions & JUnit Testing
 (Date: 20-Jan-2026)
 
-Regular expressions with Pattern and Matcher classes
-Input validation, text parsing, and data extraction
-JUnit testing framework with assertions and test cases
-Regex Problems Solved:
-Extract Capitalized Words
-Censor Bad Words
-Validate and Extract Email Addresses
-Extract Currency Values
-Extract Dates (Multiple Formats)
-Extract URLs and Links
-Extract Programming Language Names
-Validate Hex Color Codes
-Validate License Plate Numbers
-Find Repeating Words
-Replace Multiple Spaces with Single Space
-Validate Credit Card Numbers
-Validate IP Addresses
-Validate Social Security Numbers
-Validate Usernames
+- Regular expressions with Pattern and Matcher classes
+- Input validation, text parsing, and data extraction
+- JUnit testing framework with assertions and test cases
+- Regex Problems Solved:
+ 
+```
 Project Structure:
 
-```
 JavaCollectionPractice/
    └── gcr-codebase/
      └── src/
