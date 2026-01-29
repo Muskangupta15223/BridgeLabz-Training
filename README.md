@@ -15,6 +15,7 @@ java-collections-practice/
 ```
 -------
 ### Day 1 : Generics
+*(Date: 15-Jan-2026)*
 - Generics provide compile-time type safety and prevent runtime casting errors.
 - Understood basic operations and use cases.
 - Commited and pushed all works
@@ -33,7 +34,9 @@ java-collections-practice/
 
 ```
 - 🔗👉[ Generics ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/generics)
+  
   ### Day 2 : Collection framework
+  *(Date: 16-Jan-2026)*
 - Studied Java Collections Framework architecture and hierarchy.
 - Understood the role of Collection and Map interfaces.
 - Learned **List Interface** and its implementations:
@@ -95,7 +98,50 @@ java-collections-practice/
 
 ```
 - Commited and pushed all works
-  
+
+  ------
+
+### Day 24 – Java I/O Streams
+*(Date: 18-Jan-2026)*
+
+- Studied Java I/O Streams architecture and stream-based data handling.
+- Covered Byte Streams and Character Streams for file operations.
+- Learned and implemented:
+  - FileInputStream, FileOutputStream
+  - FileReader, FileWriter
+  - BufferedInputStream, BufferedOutputStream
+- BufferedReader, BufferedWriter
+- Understood Object Streams:
+  - ObjectInputStream, ObjectOutputStream
+- Serialization and deserialization
+- Practiced in-memory streams:
+  - ByteArrayInputStream, ByteArrayOutputStream
+- Used bridge streams:
+   - InputStreamReader, OutputStreamWriter
+- Applied try-with-resources, buffering, and performance best practices.
+ 
+```
+java-collections-practice/
+└── gcr-codebase/
+    └── src/
+        └── com/
+            └── java/
+                └── streams/
+                    ├── BufferedStreams.java
+                    ├── ByteArrayStream.java
+                    ├── CountWordsFile.java
+                    ├── DataStreams.java
+                    ├── FileHandling.java
+                    ├── FilterStreams.java
+                    ├── PipedStreams.java
+                    ├── ReadLargeFileLBL.java
+                    ├── Serialization.java
+                    └── UserInputfromConsole.java
+
+```
+ 
+- Commited and pushed all works
+-------
 
 ## Section B : Scenario-based-codebase
 -------
