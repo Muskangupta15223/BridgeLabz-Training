@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Krishna Jadhav",
+    "age": 21,
+    "city": "Pune",
+    "state": "Maharashtra",
+    "college": "COEP Pune",
+    "course": "B.Tech CSE",
+    "phone": "9876543210"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "age": 22,
+    "city": "Jaipur",
+    "state": "Rajasthan",
+    "college": "MNIT Jaipur",
+    "course": "B.Tech IT",
+    "phone": "9123456780"
+  },
+  {
+    "id": 3,
+    "name": "Anjali Verma",
+    "age": 20,
+    "city": "Bhopal",
+    "state": "Madhya Pradesh",
+    "college": "MANIT Bhopal",
+    "course": "B.Tech AI",
+    "phone": "9012345678"
+  },
+  {
+    "id": 4,
+    "name": "Aman Singh",
+    "age": 23,
+    "city": "Delhi",
+    "state": "Delhi",
+    "college": "DTU",
+    "course": "B.Tech ECE",
+    "phone": "9988776655"
+  },
+  {
+    "id": 5,
+    "name": "Priya Patil",
+    "age": 21,
+    "city": "Kolhapur",
+    "state": "Maharashtra",
+    "college": "Shivaji University",
+    "course": "BCA",
+    "phone": "9090909090"
+  }
+]
