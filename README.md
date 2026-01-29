@@ -143,7 +143,7 @@ java-collections-practice/
 - Commited and pushed all works
 -------
 
-### Day 33 – Exception Handling
+### Day 4 – Exception Handling
 *(Date: 19-Jan-2026)*
 
 - Checked vs Unchecked Exceptions
@@ -173,6 +173,95 @@ java-collections-practice/
                     ├── TryWithResources.java
                     └── UncheckedException.java
 ```
+--------
 
+Day 5 – Regular Expressions & JUnit Testing
+(Date: 20-Jan-2026)
+
+Regular expressions with Pattern and Matcher classes
+Input validation, text parsing, and data extraction
+JUnit testing framework with assertions and test cases
+Regex Problems Solved:
+Extract Capitalized Words
+Censor Bad Words
+Validate and Extract Email Addresses
+Extract Currency Values
+Extract Dates (Multiple Formats)
+Extract URLs and Links
+Extract Programming Language Names
+Validate Hex Color Codes
+Validate License Plate Numbers
+Find Repeating Words
+Replace Multiple Spaces with Single Space
+Validate Credit Card Numbers
+Validate IP Addresses
+Validate Social Security Numbers
+Validate Usernames
+Project Structure:
+
+```
+JavaCollectionPractice/
+   └── gcr-codebase/
+     └── src/
+        ├── com/
+        │    └── regex/
+        │           ├── extraction/
+        │           │   ├── ExtractCapitalWord.java
+        │           │   ├── ExtractEmailAddress.java
+        │           │   ├── ExtractDate.java
+        │           │   ├── ExtractLinks.java
+        │           ├── advance/
+        │           │   ├── ExtractCurrency.java
+        │           │   ├── ExtractProgrammingLanguageNames.java
+        │           │   ├── FindRepeatingWords.java
+        │           │   ├── ValidateIPAddress.java
+        │           │   ├── ValidateCreditCard.java
+        │           │   ├── ValidateSSN.java
+        |           ├── validation/
+        │           │   ├── HexColorCode.java
+        │           │   ├── LicencePlateNumber.java
+        │           │   ├──ValidateUsername.java
+        |           ├── replaceModify/
+        │           │   ├── CensorBadWords.java
+        │           │   ├── ReplaceMspaceToSspace.java
+```
+   -----     
+```
+junit/
+    └── src/
+        ├── main/
+        │   └── java/
+        │       └── JUnit/
+        │               ├── BankAccount.java
+        │               ├── Calculator.java
+        │               ├── DatabaseConnection.java
+        │               ├── FileProcessor.java
+        │               ├── ListManager.java
+        │               ├── MathUtils.java
+        │               ├── NumberUtils.java
+        │               ├── PasswordValidator.java
+        │               ├── PerformanceUtils.java
+        │               ├── StringUtils.java
+        │               ├── TemperatureConverter.java
+        │               └── UserRegistration.java
+        └── test/
+            └── java/
+                └── regexJUnit/
+                    ├── BankAccountTest.java
+                    ├── CalculatorTest.java
+                    ├── DatabaseConnectionTest.java
+                    ├── FileProcessorTest.java
+                    ├── ListManagerTest.java
+                    ├── MathUtilsTest.java
+                    ├── NumberUtilsTest.java
+                    ├── PasswordValidatorTest.java
+                    ├── PerformanceUtilsTest.java
+                    ├── StringUtilsTest.java
+                    ├── TemperatureConverterTest.java
+                    └── UserRegistrationTest.java
+
+   ```
+
+-------
 ## Section B : Scenario-based-codebase
 -------
