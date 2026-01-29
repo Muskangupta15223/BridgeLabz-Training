@@ -101,7 +101,7 @@ java-collections-practice/
 
   ------
 
-### Day 24 – Java I/O Streams
+### Day 3 – Java Streams
 *(Date: 18-Jan-2026)*
 
 - Studied Java I/O Streams architecture and stream-based data handling.
@@ -142,6 +142,37 @@ java-collections-practice/
  
 - Commited and pushed all works
 -------
+
+### Day 33 – Exception Handling
+*(Date: 19-Jan-2026)*
+
+- Checked vs Unchecked Exceptions
+- Custom exception creation and handling
+- Try-catch-finally blocks and exception propagation
+- Try-with-resources for automatic resource management
+- Concepts Covered:
+   - Checked Exception - File handling, I/O operations
+   - Unchecked Exception - Runtime errors
+- Custom Exception - Domain-specific error handling
+ 
+```
+Project Structure:
+java-collections-practice/
+└── gcr-codebase/
+     └── src/
+         └── com/
+             └── exceptionHandling/
+                    ├── BankSystemCustomException.java
+                    ├── CheckedException.java
+                    ├── CustomException.java
+                    ├── ExceptionPropagation.java
+                    ├── FinallyExecution.java
+                    ├── MultipleCatchBlocks.java
+                    ├── NestedTryCatch.java
+                    ├── ThrowVsThrows.java
+                    ├── TryWithResources.java
+                    └── UncheckedException.java
+```
 
 ## Section B : Scenario-based-codebase
 -------
