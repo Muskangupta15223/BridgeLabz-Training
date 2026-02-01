@@ -10,7 +10,7 @@ public class HospitalMain {
 		
 		List<Doctor> doctors = Arrays.asList(
 				new Doctor("Dr. Smith", "Cardiologist", true),
-				new Doctor("Dr. Johnson", "Dermatologist", false),
+				new Doctor("Dr. Johnanath", "Dermatologist", false),
 				new Doctor("Dr. Williams", "Pediatrician", true),
 				new Doctor("Dr. Brown", "Neurologist", false),
 				new  Doctor("Dr. Jones", "Orthopedic", true)
