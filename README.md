@@ -23,8 +23,10 @@ This repository serves as a living record of my Java training at BridgeLabz,span
 **Week 4**: Java-Collection-Practice
 
 ### 🔹 [java-iostream-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-iostream-practice)
-**Week 4**: Java-iostream-Practice
+**Week 5**: Java-iostream-Practice
 
+### 🔹 [java8-programming-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java8-programming-practice)
+**Week 6**: Java8-programming-Practice
 ---
 
 ## 📂 Project Structure
@@ -187,6 +189,15 @@ BridgeLabz-Training/
 |---------|-----------------------------------|-----------------------------------|
 | 23-Jan  |  5 collectionscenario & CSV Data  |5 scenario and 15 csv data handling|
 | 24-Jan  |  5 collectionscenario & Json Data |5 scenario and 25json data handling|
+
+----------
+
+## Week - 5 - Java8
+
+| Date    |     Topic                         | Programs Completed                |
+|---------|-----------------------------------|-----------------------------------|
+| 27-Jan  |iostream Scenario&Lambda expression|3 scenario and 15 lambda expression|
+
 ----------
 
 ### 🎓 Learnings & Best Practices
