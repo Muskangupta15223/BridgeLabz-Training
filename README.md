@@ -48,7 +48,9 @@ java-iostream-practice/
 
 ```
 - commited and pushed all the tasks.
-- 
+ 
+👉🔗[CSV Handling ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/src/main/java/CSVDataHandling) 
+
 ------
 ### Day 2 – JSON Data Handling
 *(Date: 24-Jan-2026)*
@@ -81,3 +83,7 @@ java-iostream-practice/
                 └── student.csv
 ```
 - commited and pushed all the tasks.
+
+👉🔗[JSON Data Handling](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-iostream-practice/java-iostream-practice/gcr-codebase/src/main/java/JSONData)
+
+-------------
