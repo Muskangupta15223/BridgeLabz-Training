@@ -1,4 +1,5 @@
 ## Week 5: Java I/O Streams – CSV & JSON Data Handling
+
 ### Day 1 – CSV Data Handling
 *(Date: 23-Jan-2026)*
 
@@ -46,3 +47,37 @@ java-iostream-practice/
                 └── student.csv
 
 ```
+- commited and pushed all the tasks.
+- 
+------
+### Day 2 – JSON Data Handling
+*(Date: 24-Jan-2026)*
+
+- JSON parsing and generation in Java
+- Reading and writing JSON files
+- Converting Java objects to JSON and vice versa
+- JSON data manipulation and transformation
+ 
+```
+Project Structure:
+java-iostream-practice/
+└── gcr-codebase/
+    └── src/
+        └── main/
+            ├── java/
+            │   └── JSONData/
+            │       ├── ExtractJSON.java
+            │       ├── FilterJson.java
+            │       ├── JsonToXml.java
+            │       ├── JSONValidator.java
+            │       ├── ListToJson.java
+            │       ├── ListToJson2.java
+            │       ├── MergeJSON.java
+            │       ├── ObjectToJSON.java
+            │       └── ReadJSON.java
+            └── resources/
+                ├── data.csv
+                ├── data.json
+                └── student.csv
+```
+- commited and pushed all the tasks.
