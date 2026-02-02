@@ -1,7 +1,6 @@
 # Week-4 : Java-Collections
------
 ## Section A : GCR codebase
-------
+
 - detailed about folder structure of gcr-codebase.
 ```
 project folder structure
@@ -40,7 +39,7 @@ java-collections-practice/
 
 ```
 - 🔗👉[ Generics ](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/gcr-codebase/JavaCollectionsConcept/src/com/generics)
-  
+
   ### Day 2 : Collection framework
   *(Date: 16-Jan-2026)*
 - Studied Java Collections Framework architecture and hierarchy.
@@ -105,8 +104,6 @@ java-collections-practice/
 ```
 - Commited and pushed all works
 
-  ------
-
 ### Day 3 – Java Streams
 *(Date: 18-Jan-2026)*
 
@@ -147,7 +144,6 @@ java-collections-practice/
 ```
  
 - Commited and pushed all works
--------
 
 ### Day 4 – Exception Handling
 *(Date: 19-Jan-2026)*
@@ -179,7 +175,6 @@ java-collections-practice/
                     ├── TryWithResources.java
                     └── UncheckedException.java
 ```
---------
 
 ### Day 5 – Regular Expressions & JUnit Testing
 *(Date: 20-Jan-2026)*
@@ -253,7 +248,25 @@ junit/
                     └── UserRegistrationTest.java
 
    ```
-
--------
+---------
 ## Section B : Scenario-based-codebase
+
+### Day 28 – Scenario-Based Practice
+*(Date: 23-Jan-2026)*
+
+- Solved 5 scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 Code Links:
+👉 [Scenario Based Problems](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/scenario-based/JavaCollectionScenarioBased/src/com/collections)
+
+### 🗓 Day 29 – Scenario-Based Practice
+*(Date: 24-Jan-2026)*
+
+- Solved 5 scenario-based problems.
+- Focused on logical thinking and real-world problem solving.
+- Committed and pushed all solutions.
+- 🔗 Code Links:
+👉 [Scenario Based Problems](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-collection-practice/java-collections-practice/scenario-based/JavaCollectionScenarioBased/src/com/collections)
+
 -------
