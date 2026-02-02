@@ -2,9 +2,10 @@
 -----
 ## Section A : GCR codebase
 ------
-- project folder structure
-- 
+- detailed about folder structure of gcr-codebase.
 ```
+project folder structure
+
 java-collections-practice/
 └── gcr-codebase/
    └── JavaCollectionPractice/
@@ -12,6 +13,11 @@ java-collections-practice/
            └── com/
              ├──generics/
              ├──collections/
+             ├──regex/
+             ├──exceptionHandling/
+             ├──Junit/
+             ├──java streams/
+
 ```
 -------
 ### Day 1 : Generics
@@ -175,8 +181,8 @@ java-collections-practice/
 ```
 --------
 
-Day 5 – Regular Expressions & JUnit Testing
-(Date: 20-Jan-2026)
+### Day 5 – Regular Expressions & JUnit Testing
+*(Date: 20-Jan-2026)*
 
 - Regular expressions with Pattern and Matcher classes
 - Input validation, text parsing, and data extraction
