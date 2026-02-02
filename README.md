@@ -79,13 +79,22 @@ BridgeLabz-Training/
 │
 │
 └── 📁 java-collections-practice/
-    └── 📁 gcr-codebase/
-         └── 📁 JavaCollectionConcept/
-              └── 📁 src/com/
-                    ├── 📁 generics/                              # generics (Day 26)
-                    ├── 📁 collections/                           # collections (Day 27)
-                    ├── 📁 streams/                              # streams (Day 29)
-                    ├── 📁 exceptions/                           # exceptions (Day 30)
+|    └── 📁 gcr-codebase/
+|    |     └── 📁 JavaCollectionConcept/
+|    |          └── 📁 src/com/
+|    |                ├── 📁 generics/                              # generics (Day 26)
+|    |                ├── 📁 collections/                           # collections (Day 27)
+|    |                ├── 📁 streams/                               # streams (Day 29)
+|    |                ├── 📁 exceptions/                            # exceptions (Day 30)
+│    └── 📁 scenario-based-codebase/                                # Collection Scenario applications(Day 30-- *)
+|
+├── 📁 java-iostream-practice/
+│   └── 📁 gcr-codebase/
+│       └── 📁 src/main/
+│           ├── 📁 java/
+│           │   ├── 📁 CSVDataHandling/                            # CSV Operations (Day 32)
+│           │   └── 📁 JSONData/                                   # JSON Operations (Day 33)
+│           └── 📁 resources/                  
 ```
 ---
 
