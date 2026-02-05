@@ -27,6 +27,7 @@ This repository serves as a living record of my Java training at BridgeLabz,span
 
 ### 🔹 [java8-programming-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java8-programming-practice)
 **Week 6**: Java8-programming-Practice
+
 ---
 
 ## 📂 Project Structure
@@ -84,17 +85,38 @@ BridgeLabz-Training/
 |    |          └── 📁 src/com/
 |    |                ├── 📁 generics/                              # generics (Day 26)
 |    |                ├── 📁 collections/                           # collections (Day 27)
-|    |                ├── 📁 streams/                               # streams (Day 29)
+|    |                ├── 📁 java streams/                          # streams (Day 29)
 |    |                ├── 📁 exceptions/                            # exceptions (Day 30)
+|    |                ├── 📁 regex/                                 # regex  (Day 31 )
+|    |                ├── 📁 annotations & reflection/              # annotation & reflection (Day 33 & 34)
 │    └── 📁 scenario-based-codebase/                                # Collection Scenario applications(Day 30-- *)
+|
+└── 📁 junit/                                                       # junit (day 32)
+|    └── 📁 Junit                                 
+|    |    └── 📁 src/main/java
+│    |    └── 📁 src/main/test
+|
 |
 ├── 📁 java-iostream-practice/
 │   └── 📁 gcr-codebase/
-│       └── 📁 src/main/
-│           ├── 📁 java/
-│           │   ├── 📁 CSVDataHandling/                            # CSV Operations (Day 32)
-│           │   └── 📁 JSONData/                                   # JSON Operations (Day 33)
-│           └── 📁 resources/                  
+│   |    └── 📁 src/main/
+│   |        ├── 📁 java/
+│   |        │   ├── 📁 CSVDataHandling/                            # CSV Operations (Day 35)
+│   |        │   └── 📁 JSONData/                                   # JSON Operations (Day 36)
+│   |    └── 📁 resources/
+|   |
+│
+└── 📁 java8-programming-practice/
+|    └── 📁 gcr-codebase/
+|    |    └── 📁 Java8ProgrammingConcept/
+|    |          └── 📁 src/com/
+|    |              ├── 📁 lambdaexpression/                   # java8 features (Day 37 - 42) 
+|    |              ├── 📁 functionalinterface/
+|    |              ├── 📁 streamapi/
+|    |              ├── 📁 collectors/
+|    └── 📁 scenario-code-base/
+|    |    └── 📁 Java8ScenarioBased/  
+             
 ```
 ---
 
@@ -201,13 +223,15 @@ BridgeLabz-Training/
 
 ----------
 
-## Week - 5 - Java8
+## Week - 5 - Java8 programming
 
 | Date    |     Topic                         | Programs Completed                |
 |---------|-----------------------------------|-----------------------------------|
 | 27-Jan  |iostream Scenario&Lambda expression|3 scenario and 15 lambda expression|
 | 28-Jan  | Java8 features &multiple Scenario |   50 scenarios and 50 java8 gcr   |
 | 29-Jan  |   Java 8 scenario and questions   |  20 scenario functional interface |
+| 30-Jan  |   Java 8 scenario and logical     |30 scenario optional class & java8 |
+| 31-Jan  |   Java 8 scenario and workshop    |    20 scenario & java8  logical   |
 
 ----------
 
