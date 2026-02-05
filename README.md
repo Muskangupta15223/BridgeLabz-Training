@@ -28,6 +28,9 @@ This repository serves as a living record of my Java training at BridgeLabz,span
 ### 🔹 [java8-programming-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java8-programming-practice)
 **Week 6**: Java8-programming-Practice
 
+### 🔹 [java-design-programming-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-design-programming-practice)
+**Week 7**: Java-design-programming-Practice
+
 ---
 
 ## 📂 Project Structure
@@ -223,7 +226,7 @@ BridgeLabz-Training/
 
 ----------
 
-## Week - 5 - Java8 programming
+## Week - 6 - Java8 programming
 
 | Date    |     Topic                         | Programs Completed                |
 |---------|-----------------------------------|-----------------------------------|
@@ -234,6 +237,15 @@ BridgeLabz-Training/
 | 31-Jan  |   Java 8 scenario and workshop    |    20 scenario & java8  logical   |
 
 ----------
+
+| Date    |     Topic                       | Programs Completed                |
+|---------|---------------------------------|-----------------------------------|
+| 01-Feb  |   Design Principle & java8      | java8 logical & 1 design scenario |
+| 02-Feb  |  Design Principle and pattern   | java8 logical & 1 design scenario |
+
+
+
+------------
 
 ### 🎓 Learnings & Best Practices
 - Code Organization: Following industrial standards
