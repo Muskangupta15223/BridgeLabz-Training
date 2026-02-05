@@ -206,6 +206,8 @@ BridgeLabz-Training/
 | Date    |     Topic                         | Programs Completed                |
 |---------|-----------------------------------|-----------------------------------|
 | 27-Jan  |iostream Scenario&Lambda expression|3 scenario and 15 lambda expression|
+| 28-Jan  | Java8 features &multiple Scenario |   50 scenarios and 50 java8 gcr   |
+| 29-Jan  |   Java 8 scenario and questions   |  20 scenario functional interface |
 
 ----------
 
