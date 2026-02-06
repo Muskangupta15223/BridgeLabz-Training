@@ -13,21 +13,18 @@ Project Structure:
 java8-programming-practice/
 └── gcr-codebase/
     └── src/
-        └── main/
-            └── java/
-                └── lambdaExpressions/
-                    ├── BasicLambdaSyntax.java
-                    ├── LambdaWithCollections.java
-                    ├── LambdaSortingFiltering.java
-                    ├── MethodReferences.java
-                    ├── LambdaWithStreams.java
-                    ├── CustomFunctionalInterface.java
-                    ├── LambdaEventHandling.java
-                    ├── LambdaMultithreading.java
-                    ├── LambdaMathOperations.java
-                    └── LambdaWithOptional.java
+        └── com/
+             └── lambdaexpressions/
+                    ├── customsortingecommerce/
+                    ├──notificationfiltering/
+                    ├── smarthomelightautomation/
+             └── methodreferences/
+                    |   ├── hospitalpatient/
+                    |   ├── invoiceobjectcreation/
+                    |   ├── uppercasename/
+
 ```
---------
+
 ### Day 2 – Functional Interfaces
 *(Date: 27-Jan-2026)*
 
@@ -54,23 +51,35 @@ Project Structure:
 java8-programming-practice/
 └── gcr-codebase/
     └── src/
-        └── main/
-            └── java/
-                └── functionalInterface/
-                    ├── functionalInterface/
-                    │   ├── PredicateDemo.java
-                    │   ├── FunctionDemo.java
-                    │   ├── ConsumerDemo.java
-                    │   ├── SupplierDemo.java
-                    │   ├── BiFunctionDemo.java
-                    │   ├── BiPredicateDemo.java
-                    │   ├── BiConsumerDemo.java
-                    │   ├── UnaryOperatorDemo.java
-                    │   └── BinaryOperatorDemo.java
-                    └── implementingInterfaces/
-                        ├── CalculatorInterface.java
-                        ├── StringManipulator.java
-                        ├── ValidatorInterface.java
-                        ├── TransformerInterface.java
-                        └── CombinerInterface.java
+        └── com/
+             └── functionalinterface/
+                    │   ├── backgroundjobexecution/
+                    │   ├── cloningprototype/
+                    │   ├── dataexportfeature/
+                    │   ├── dataserialization/
+                    │   ├── dateformat/
+                    │   ├──digitalpayment/
+                    │   ├──passwordvalidator/
+                    │   ├── paymentgateway/
+                    |   ├──sensitivedatatagging/
+                    |   ├── smartdevicecontrol/
+                    |   ├── smartvehicledashboard/
+                    |   ├── stringlengthchecker/
+                    |   ├── temperaturealertsystem/
+                        └── unitconversion/
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
