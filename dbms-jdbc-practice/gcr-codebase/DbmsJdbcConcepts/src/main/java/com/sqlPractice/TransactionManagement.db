@@ -1,0 +1,92 @@
+// Implement a banking system with:
+
+mysql> CREATE TABLE TRANSACTION(
+    -> ID INT AUTO_INCREMENT PRIMARY KEY,
+    -> FROM_ACCONT INT,
+    -> TO_ACCOUNT INT,
+    -> AMOUNT DECIMAL(10,2),
+    -> TXN_DATE TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+    -> );
+    
+ mysql> CREATE TABLE ACCOUNTS(
+    -> ACCOUNT_ID INT PRIMARY KEY,
+    -> HOLDER_NAME VARCHAR(50),
+    -> BALANCE DECIMAL(10,2)
+    -> );
+Query OK, 0 rows affected (0.02 sec)   
+
+mysql> SELECT * FROM ACCOUNTS;
++------------+-------------+----------+
+| ACCOUNT_ID | HOLDER_NAME | BALANCE  |
++------------+-------------+----------+
+|          1 | MUSKAN      | 50000.00 |
+|          2 | AMIT        | 60000.00 |
++------------+-------------+----------+
+
+ // Transfer money between accounts (use transactions)
+ 
+mysql> START TRANSACTION;
+mysql> SELECT balance
+    -> FROM accounts
+    -> WHERE account_id = 1
+    -> FOR UPDATE;                    // LOCK THE ACCOUNT
++----------+
+| balance  |
++----------+
+| 50000.00 |
++----------+
+mysql> UPDATE accounts               // DEBIT FROM ACCOUNT 1
+    -> SET balance = balance - 5000
+    -> WHERE account_id = 1;
+mysql> UPDATE accounts             // CREDIT TO ACCOUNT 2
+    -> SET balance = balance + 5000
+    -> WHERE account_id = 2;
+mysql> INSERT INTO TRANSACTION(FROM_ACCONT,TO_ACCOUNT,AMOUNT)
+    -> VALUES(1,2,5000);
+mysql> COMMIT;
+
+
+//  • Check balance
+
+SELECT balance
+FROM accounts
+WHERE holder_name = 'Muskan';
++----------+
+| balance  |
++----------+
+| 45000.00 |
++----------+
+//  • Transaction history
+
+// ONLY SENT TRANSACTION
+mysql> SELECT *
+    -> FROM transaction
+    -> WHERE from_accont = 1;
++----+-------------+------------+---------+---------------------+
+| ID | FROM_ACCONT | TO_ACCOUNT | AMOUNT  | TXN_DATE            |
++----+-------------+------------+---------+---------------------+
+|  1 |           1 |          2 | 5000.00 | 2026-02-11 00:44:23 |
++----+-------------+------------+---------+---------------------+
+
+// ONLY RECEIVER TRANSACTION
+mysql> SELECT *
+    -> FROM transaction
+    -> WHERE to_account = 2;
++----+-------------+------------+---------+---------------------+
+| ID | FROM_ACCONT | TO_ACCOUNT | AMOUNT  | TXN_DATE            |
++----+-------------+------------+---------+---------------------+
+|  1 |           1 |          2 | 5000.00 | 2026-02-11 00:44:23 |
++----+-------------+------------+---------+---------------------+
+
+
+mysql> SELECT *
+    -> FROM transaction
+    -> WHERE from_accont = 1 OR to_account = 2;
++----+-------------+------------+---------+---------------------+
+| ID | FROM_ACCONT | TO_ACCOUNT | AMOUNT  | TXN_DATE            |
++----+-------------+------------+---------+---------------------+
+|  1 |           1 |          2 | 5000.00 | 2026-02-11 00:44:23 |
++----+-------------+------------+---------+---------------------+
+1 row in set (0.00 sec)
+
+
