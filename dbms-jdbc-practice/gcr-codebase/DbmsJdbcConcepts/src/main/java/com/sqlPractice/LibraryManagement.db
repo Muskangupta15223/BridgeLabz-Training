@@ -1,0 +1,67 @@
+// Build a library management system with:
+
+mysql> create database LibraryManagement;
+mysql> use LibraryManagement;
+
+mysql> CREATE TABLE books (
+    ->     book_id INT PRIMARY KEY,
+    ->     title VARCHAR(100),
+    ->     available_copies INT
+    -> );
+Query OK, 0 rows affected (0.04 sec)
+
+//• Book inventory
+
+
+mysql> insert into books( book_id,title,available_copies) values (111,"program java", 3);
+Query OK, 1 row affected (0.01 sec)
+
+mysql> select * from books;
++---------+--------------+------------------+
+| book_id | title        | available_copies |
++---------+--------------+------------------+
+|     111 | program java |                3 |
++---------+--------------+------------------+
+CREATE TABLE borrow_records (
+    borrow_id INT PRIMARY KEY AUTO_INCREMENT,
+    student_name VARCHAR(50),
+    book_id INT,
+    borrow_date DATE,
+    due_date DATE,
+    return_date DATE
+);
+
+// • Student borrowing records
+
+mysql> INSERT INTO borrow_records
+    -> (student_name, book_id, borrow_date, due_date)
+    -> VALUES ('Muskan', 101, CURDATE(), DATE_ADD(CURDATE(), INTERVAL 7 DAY));
+Query OK, 1 row affected (0.01 sec)
+
+mysql>
+mysql> UPDATE books
+    -> SET available_copies = available_copies - 1
+    -> WHERE book_id = 101;
+Query OK, 0 rows affected (0.00 sec)
+Rows matched: 0  Changed: 0  Warnings: 0
+
+// • Fine calculation
+
+mysql> SELECT
+    ->     student_name,
+    ->     book_id,
+    ->     GREATEST(DATEDIFF(CURDATE(), due_date), 0) * 10 AS fine
+    -> FROM borrow_records
+    -> WHERE return_date IS NULL;
++--------------+---------+------+
+| student_name | book_id | fine |
++--------------+---------+------+
+| Muskan       |     101 |    0 |
++--------------+---------+------+
+
+
+// • Search functionality with multiple filters
+mysql> SELECT *
+    -> FROM books
+    -> WHERE title LIKE '%Java%'
+    ->    OR book_id = 101;
