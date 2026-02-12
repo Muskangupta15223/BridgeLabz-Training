@@ -1,0 +1,27 @@
+mysql> show databases;
++--------------------+
+| Database           |
++--------------------+
+| hospitalmanagement |
+| information_schema |
+| mysql              |
+| performance_schema |
+| sakila             |
+| sample_db          |
+| sys                |
+| world              |
++--------------------+
+8 rows in set (0.01 sec)
+
+mysql> use sample_db;
+Database changed
+mysql> select * from students;
++----+----------------------+----------------------+------+-------+-----------------+
+| id | name                 | email                | age  | grade | enrollment_date |
++----+----------------------+----------------------+------+-------+-----------------+
+|  1 | john.doe@email.com   | John Doe             |   20 | A     | 2026-02-09      |
+|  2 | jane.smith@email.com | Jane Smith           |   22 | B     | 2026-02-09      |
+|  3 | John Doe             | john.doe@email.com   |   20 | A     | 2026-02-09      |
+|  4 | Jane Smith           | jane.smith@email.com |   22 | B     | 2026-02-09      |
++----+----------------------+----------------------+------+-------+-----------------+
+4 rows in set (0.00 sec)
