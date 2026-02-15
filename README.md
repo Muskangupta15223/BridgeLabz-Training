@@ -69,7 +69,7 @@ java8-programming-practice/
                         └── unitconversion/
 ```
 
-Day 3 – Streams & Collectors
+### Day 3 – Streams & Collectors
 (Date: 28-Jan-2026)
 
 - Studied Java Stream API fundamentals and lazy evaluation.
@@ -89,11 +89,21 @@ Day 3 – Streams & Collectors
 🔗 Code Link:[StreamApi](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcept/src/com/streamapi)
 [Collectors](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java8-programming-practice/java8-programming-practice/gcr-codebase/Java8ProgrammingConcept/src/com/colletors)
 
+## Section B : Scenario-Based Problems Progress
+ - Practiced stream creation from collections, arrays, and generators.
+ - Built-in functional interfaces (Predicate, Function, Consumer, Supplier)
+ - Stream operations with lambda expressions
+```
+java8-programming-practice/
+└── scenario-based-codebase/
+    └── src/
+        └── com/
+           │   ├── functionalInterface/
+           │   ├── lambdaexpression/
+           │   ├── java8/
+           │   ├── optionalclass/
 
-
-
-
-
+```
 
 
 
