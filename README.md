@@ -46,7 +46,7 @@
 - Committed and pushed all work  
 
 ### 🔗 Code Link
-👉 Design Principles & Patterns  
+[Design Principles & Patterns](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-design-programming-practice/java-design-pattern/gcr-codebase/JavaDesignPractice/src/com/designprinciples/librarycasestudy)
 
 ---
 
