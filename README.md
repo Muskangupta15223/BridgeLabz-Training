@@ -147,7 +147,35 @@ BridgeLabz-Training/
 - **Queue** : FIFO-based linear data structure
 -  **Sorting** : Merge,Quick , Heap Sort
 -  **Searching** : linear and Binary Search
+
   
+### Java Collection Framework (java-collections-practice)
+- **Generics** : Type-safe collections and bounded types.
+- **Collection Hierarchy** : List, Set, Queue and Map structure.
+- **List Implementations** : ArrayList, LinkedList, Vector.
+- **Set Implementations** : HashSet, LinkedHashSet, TreeSet.
+- **Map Implementations** : HashMap, LinkedHashMap, TreeMap, Hashtable.
+- **Queue & Deque** : PriorityQueue and ArrayDeque.
+- **Exception Handling** : Checked, unchecked, custom exceptions.
+- **Regex & JUnit** : Pattern matching and unit testing.
+- **Reflection & Annotations** : Runtime inspection and metadata usage.
+- **I/O Streams** : Byte and character stream handling.
+
+### Java IOStreams (java-iostreams-practice)
+- **CSV Handling** : Reading, writing and validation.
+- **JSON Handling** : Parsing, POJO mapping and conversion.
+
+
+### Java 8 Features (java8-programming-practice)
+- **Lambda Expressions** : Functional programming syntax.
+- **Functional Interfaces** : Predicate, Function, Consumer, Supplier.
+- **Method References** : Static, instance and constructor references.
+- **Interface Enhancements** : Default and static methods.
+- **Collectors** : groupingBy, mapping, averaging, summarizing.
+- **Streams** : Real-world data processing.
+- **Problem Solving** : LeetCode challenges and scenarios.
+
+
 ---
 
 ## Scenario-based 
@@ -237,6 +265,7 @@ BridgeLabz-Training/
 | 31-Jan  |   Java 8 scenario and workshop    |    20 scenario & java8  logical   |
 
 ----------
+## Week - 7 - Design Pattern & Multithreading
 
 | Date    |     Topic                       | Programs Completed                |
 |---------|---------------------------------|-----------------------------------|
@@ -244,6 +273,7 @@ BridgeLabz-Training/
 | 02-Feb  |  Design Principle and pattern   | java8 logical & 1 design scenario |
 | 03-Feb  |  MultiThreading and Scenario    |Scenario pattern& 5 multithreading |
 
+## Week- 8 - Dbms & JDBC practice 
 
 ------------
 
