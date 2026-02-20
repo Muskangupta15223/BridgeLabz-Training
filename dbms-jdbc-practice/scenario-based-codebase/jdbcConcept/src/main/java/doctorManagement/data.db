@@ -1,0 +1,23 @@
+ MySQL  localhost:33060+ ssl  patient  SQL > DESCRIBE doctors;
++------------------+--------------+------+-----+---------+----------------+
+| Field            | Type         | Null | Key | Default | Extra          |
++------------------+--------------+------+-----+---------+----------------+
+| id               | int          | NO   | PRI | NULL    | auto_increment |
+| name             | varchar(100) | YES  |     | NULL    |                |
+| contact          | varchar(15)  | YES  |     | NULL    |                |
+| consultation_fee | double       | YES  |     | NULL    |                |
+| specialty_id     | int          | YES  | MUL | NULL    |                |
+| is_active        | tinyint(1)   | YES  |     | 1       |                |
++------------------+--------------+------+-----+---------+----------------+
+6 rows in set (0.0108 sec)
+
+
+
+ MySQL  localhost:33060+ ssl  patient  SQL > DESCRIBE specialties;
++-------+--------------+------+-----+---------+----------------+
+| Field | Type         | Null | Key | Default | Extra          |
++-------+--------------+------+-----+---------+----------------+
+| id    | int          | NO   | PRI | NULL    | auto_increment |
+| name  | varchar(100) | YES  | UNI | NULL    |                |
++-------+--------------+------+-----+---------+----------------+
+2 rows in set (0.0014 sec)
