@@ -1,0 +1,49 @@
+ MySQL  localhost:33060+ ssl  patient  SQL > DESCRIBE bills;
++----------------+-------------+------+-----+---------+----------------+
+| Field          | Type        | Null | Key | Default | Extra          |
++----------------+-------------+------+-----+---------+----------------+
+| id             | int         | NO   | PRI | NULL    | auto_increment |
+| visit_id       | int         | YES  | MUL | NULL    |                |
+| total_amount   | double      | YES  |     | NULL    |                |
+| payment_status | varchar(20) | YES  |     | UNPAID  |                |
+| payment_date   | date        | YES  |     | NULL    |                |
+| payment_mode   | varchar(50) | YES  |     | NULL    |                |
++----------------+-------------+------+-----+---------+----------------+
+6 rows in set (0.0181 sec)
+
+
+
+ MySQL  localhost:33060+ ssl  patient  SQL > DESCRIBE payment_transactions;
++------------------+-------------+------+-----+-------------------+-------------------+
+| Field            | Type        | Null | Key | Default           | Extra             |
++------------------+-------------+------+-----+-------------------+-------------------+
+| id               | int         | NO   | PRI | NULL              | auto_increment    |
+| bill_id          | int         | YES  | MUL | NULL              |                   |
+| amount           | double      | YES  |     | NULL              |                   |
+| transaction_date | timestamp   | YES  |     | CURRENT_TIMESTAMP | DEFAULT_GENERATED |
+| mode             | varchar(50) | YES  |     | NULL              |                   |
++------------------+-------------+------+-----+-------------------+-------------------+
+5 rows in set (0.0029 sec)
+
+
+
+ MySQL  localhost:33060+ ssl  patient  SQL > SELECT * FROM bills;
++----+----------+--------------+----------------+--------------+--------------+
+| id | visit_id | total_amount | payment_status | payment_date | payment_mode |
++----+----------+--------------+----------------+--------------+--------------+
+|  6 |        2 |         1200 | PAID           | 2026-02-15   | UPI          |
+|  7 |        3 |          850 | UNPAID         | NULL         | NULL         |
+|  8 |        4 |         1500 | PAID           | 2026-02-16   | CREDIT_CARD  |
++----+----------+--------------+----------------+--------------+--------------+
+3 rows in set (0.0012 sec)
+
+
+
+ MySQL  localhost:33060+ ssl  patient  SQL > SELECT * FROM payment_transactions;
++----+---------+--------+---------------------+-------------+
+| id | bill_id | amount | transaction_date    | mode        |
++----+---------+--------+---------------------+-------------+
+|  3 |       6 |   1200 | 2026-02-15 08:17:20 | UPI         |
+|  4 |       7 |   1500 | 2026-02-15 08:17:20 | CREDIT_CARD |
++----+---------+--------+---------------------+-------------+
+2 rows in set (0.0010 sec)
