@@ -1,0 +1,24 @@
+ MySQL  localhost:33060+ ssl  patient  SQL > select * from patients;
++----+---------+------------+------------+-------------------+---------+-------------+
+| id | name    | dob        | phone      | email             | address | blood_group |
++----+---------+------------+------------+-------------------+---------+-------------+
+|  1 | Krishna | 2000-01-01 | 9999999999 | krishna@gmail.com | Mumbai  | O+          |
+|  2 | Shna    | 2000-01-19 | 9876543210 | shna@gmail.com    | Pune    | B+          |
++----+---------+------------+------------+-------------------+---------+-------------+
+2 rows in set (0.0006 sec)
+
+
+
+ MySQL  localhost:33060+ ssl  patient  SQL > DESCRIBE patients;
++-------------+--------------+------+-----+---------+----------------+
+| Field       | Type         | Null | Key | Default | Extra          |
++-------------+--------------+------+-----+---------+----------------+
+| id          | int          | NO   | PRI | NULL    | auto_increment |
+| name        | varchar(100) | YES  |     | NULL    |                |
+| dob         | date         | YES  |     | NULL    |                |
+| phone       | varchar(15)  | YES  | UNI | NULL    |                |
+| email       | varchar(100) | YES  | UNI | NULL    |                |
+| address     | varchar(200) | YES  |     | NULL    |                |
+| blood_group | varchar(5)   | YES  |     | NULL    |                |
++-------------+--------------+------+-----+---------+----------------+
+7 rows in set (0.0031 sec)
