@@ -1,0 +1,71 @@
+ MySQL  localhost:33060+ ssl  patient  SQL > select * from specialty;
++----+--------------------+
+| id | name               |
++----+--------------------+
+|  1 | Advanced Neurology |
+|  2 | Neurology          |
++----+--------------------+
+
+
+ MySQL  localhost:33060+ ssl  patient  SQL > DESCRIBE specialty;
++-------+--------------+------+-----+---------+----------------+
+| Field | Type         | Null | Key | Default | Extra          |
++-------+--------------+------+-----+---------+----------------+
+| id    | int          | NO   | PRI | NULL    | auto_increment |
+| name  | varchar(100) | YES  | UNI | NULL    |                |
++-------+--------------+------+-----+---------+----------------+
+2 rows in set (0.0020 sec)
+
+
+ MySQL  localhost:33060+ ssl  patient  SQL > DESCRIBE audit_log;
++-------------+--------------+------+-----+-------------------+-------------------+
+| Field       | Type         | Null | Key | Default           | Extra             |
++-------------+--------------+------+-----+-------------------+-------------------+
+| id          | int          | NO   | PRI | NULL              | auto_increment    |
+| user_name   | varchar(100) | YES  |     | NULL              |                   |
+| table_name  | varchar(100) | YES  |     | NULL              |                   |
+| action_type | varchar(20)  | YES  |     | NULL              |                   |
+| action_time | timestamp    | YES  |     | CURRENT_TIMESTAMP | DEFAULT_GENERATED |
++-------------+--------------+------+-----+-------------------+-------------------+
+5 rows in set (0.0028 sec)
+
+
+
+
+
+Backing up table: appointment_audit
+Row backed up from appointment_audit
+Row backed up from appointment_audit
+Row backed up from appointment_audit
+Row backed up from appointment_audit
+Row backed up from appointment_audit
+Backing up table: appointments
+Row backed up from appointments
+Row backed up from appointments
+Row backed up from appointments
+Backing up table: audit_log
+Backing up table: bills
+Row backed up from bills
+Row backed up from bills
+Row backed up from bills
+Backing up table: doctors
+Row backed up from doctors
+Row backed up from doctors
+Backing up table: patients
+Row backed up from patients
+Row backed up from patients
+Backing up table: payment_transactions
+Row backed up from payment_transactions
+Row backed up from payment_transactions
+Backing up table: prescriptions
+Row backed up from prescriptions
+Row backed up from prescriptions
+Backing up table: specialties
+Row backed up from specialties
+Backing up table: specialty
+Row backed up from specialty
+Row backed up from specialty
+Backing up table: visits
+Row backed up from visits
+Row backed up from visits
+Row backed up from visits
