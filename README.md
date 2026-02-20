@@ -272,6 +272,7 @@ BridgeLabz-Training/
 | 01-Feb  |   Design Principle & java8      | java8 logical & 1 design scenario |
 | 02-Feb  |  Design Principle and pattern   | java8 logical & 1 design scenario |
 | 03-Feb  |  MultiThreading and Scenario    |Scenario pattern& 5 multithreading |
+|	4-Feb	  |    Advanced Scenarios           |	 5 scenario Concurrency patterns  | 
 
 ## Week- 8 - Dbms & JDBC practice 
 
