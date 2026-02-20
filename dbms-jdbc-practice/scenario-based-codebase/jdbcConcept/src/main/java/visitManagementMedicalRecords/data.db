@@ -1,0 +1,48 @@
+MySQL  localhost:33060+ ssl  patient  SQL > DESCRIBE visits;
++----------------+--------------+------+-----+---------+----------------+
+| Field          | Type         | Null | Key | Default | Extra          |
++----------------+--------------+------+-----+---------+----------------+
+| id             | int          | NO   | PRI | NULL    | auto_increment |
+| appointment_id | int          | YES  | MUL | NULL    |                |
+| diagnosis      | varchar(255) | YES  |     | NULL    |                |
+| notes          | text         | YES  |     | NULL    |                |
+| visit_date     | date         | YES  |     | NULL    |                |
++----------------+--------------+------+-----+---------+----------------+
+5 rows in set (0.0035 sec)
+
+
+
+ MySQL  localhost:33060+ ssl  patient  SQL > DESCRIBE prescriptions;
++---------------+--------------+------+-----+---------+----------------+
+| Field         | Type         | Null | Key | Default | Extra          |
++---------------+--------------+------+-----+---------+----------------+
+| id            | int          | NO   | PRI | NULL    | auto_increment |
+| visit_id      | int          | YES  | MUL | NULL    |                |
+| medicine_name | varchar(100) | YES  |     | NULL    |                |
+| dosage        | varchar(50)  | YES  |     | NULL    |                |
+| duration      | varchar(50)  | YES  |     | NULL    |                |
++---------------+--------------+------+-----+---------+----------------+
+5 rows in set (0.0024 sec)
+
+
+
+ MySQL  localhost:33060+ ssl  patient  SQL > SELECT * FROM visits;
++----+----------------+-----------+-----------------+------------+
+| id | appointment_id | diagnosis | notes           | visit_date |
++----+----------------+-----------+-----------------+------------+
+|  2 |              4 | Fever     | Rest for 3 days | 2026-02-14 |
+|  3 |              4 | Fever     | Rest for 3 days | 2026-02-14 |
+|  4 |              4 | Fever     | Rest for 3 days | 2026-02-14 |
++----+----------------+-----------+-----------------+------------+
+3 rows in set (0.0010 sec)
+
+
+
+ MySQL  localhost:33060+ ssl  patient  SQL > SELECT * FROM prescriptions;
++----+----------+---------------+--------+----------+
+| id | visit_id | medicine_name | dosage | duration |
++----+----------+---------------+--------+----------+
+|  3 |        3 | Paracetamol   | 500mg  | 5 days   |
+|  4 |        4 | Paracetamol   | 500mg  | 5 days   |
++----+----------+---------------+--------+----------+
+2 rows in set (0.0011 sec)
