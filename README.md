@@ -31,6 +31,8 @@ This repository serves as a living record of my Java training at BridgeLabz,span
 ### 🔹 [java-design-programming-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/java-design-programming-practice)
 **Week 7**: Java-design-programming-Practice
 
+### 🔹 [dbms-jdbc-practice](https://github.com/Muskangupta15223/BridgeLabz-Training/tree/dbms-jdbc-practice)
+**Week 8**: Dbms-Jdbc-Practice
 ---
 
 ## 📂 Project Structure
@@ -175,7 +177,11 @@ BridgeLabz-Training/
 - **Streams** : Real-world data processing.
 - **Problem Solving** : LeetCode challenges and scenarios.
 
-
+### java-design-pattern-practice
+- **Design Principles** - SOLID, DRY, KISS (Jan 31)
+- **Multithreading Fundamentals** - start() , wait(), thread, process
+- **Multithreading Scenarios** - solve multiple hard problems
+- **Advanced Scenarios & Patterns** - use joins(),, interuppt()
 ---
 
 ## Scenario-based 
@@ -272,9 +278,12 @@ BridgeLabz-Training/
 | 01-Feb  |   Design Principle & java8      | java8 logical & 1 design scenario |
 | 02-Feb  |  Design Principle and pattern   | java8 logical & 1 design scenario |
 | 03-Feb  |  MultiThreading and Scenario    |Scenario pattern& 5 multithreading |
-|	4-Feb	  |    Advanced Scenarios           |	 5 scenario Concurrency patterns  | 
+|	04-Feb  |    Advanced Scenarios           |	 5 scenario Concurrency patterns  | 
 
 ## Week- 8 - Dbms & JDBC practice 
+| Date    |     Topic                       | Programs Completed                |
+|---------|---------------------------------|-----------------------------------|
+| 06-Feb  |   MySQL Fundamentals	          | DDL, DML, Joins, Normalization    |  
 
 ------------
 
